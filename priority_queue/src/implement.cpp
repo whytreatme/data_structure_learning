@@ -7,11 +7,11 @@
 #define FATHER(i) ((i) / 2) //船长的版本用宏
 #define LEFT(i)   ((i) * 2)
 #define RIGHT(i)  ((i) * 2 + 1)
-#define SWAP(a , b)  { \ 
-    printf_s("swap(%d, %d)\n", a, b); \
-    __typeof(a) __c = (a); \
-    (a) = (b); \
-    (b) = __c; \
+#define SWAP(a , b){\ 
+    printf_s("swap(%d, %d)\n", a, b);\
+    __typeof(a) __c = (a);\
+    (a) = (b);\
+    (b) = __c;\
 }//定义一个用于交换的宏函数
 
 typedef struct PriorityQueue{
@@ -61,7 +61,7 @@ void down_maintain(int p[], int index, int n){ //弹出元素之后的向下调�
         
 
         if(index == i ) break;
-        SWAP(p[i],p[index]);
+        SWAP(p[i],p[index])
         index = i; //每一轮交换一次，交换完有新的根节点
     }
      
