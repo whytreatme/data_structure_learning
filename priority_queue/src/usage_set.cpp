@@ -69,7 +69,7 @@ void test5(){
         for (int i = 0; i < 4; i++) {
             cout << "s.begin() = " << s.begin()->first << endl;
             s.erase(s.begin()); // pop
-            cout << "pop heap" << endl;
+            cout << "pop heap" << endl;//不断出栈元素的最小值
         }
         return ;
 }
