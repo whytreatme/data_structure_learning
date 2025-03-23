@@ -115,3 +115,62 @@ public:
         return real_head;
     }
 };*/
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+ 
+ #include<vector>
+ #include<queue>
+ #include<iostream>
+ using namespace std;
+class Solution {
+public:
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        if(lists.empty())return nullptr;
+        int flag = 0; //用于标记数组中的链表是否全部为空
+        for(auto x:lists)
+            if(x != nullptr){
+                flag = 1;
+                break;
+            }
+        if(flag == 0) return nullptr;//链表都为空
+
+        ListNode* head = new ListNode();
+        ListNode* real_head = head;
+        typedef pair<int,int> PII;
+        auto cmp = [](const PII& a, const PII& b){return a.first > b.first;};
+        priority_queue<PII, std::vector<PII>, decltype(cmp)> min_heap(cmp);
+        //该用优先队列
+        int i = 0;
+         for(auto x: lists){
+                if(x != nullptr){//如果链表不为空就进入堆中
+                   min_heap.push(std::make_pair(x->val,i));//对应的值入堆，并记录对应的数组下标
+                }
+                i++;
+            }
+        while(min_heap.size()!= 0){
+            head->val = min_heap.top().first;
+            int index = min_heap.top().second;
+            cout << "insert " << min_heap.top().first << " , from list[" << index << "]" <<endl;
+            head->next = new ListNode();//每次头部指针都存当前的最小值
+            head = head->next;//构建下一个节点
+            if(lists[index]->next != nullptr){
+                lists[index] =  lists[index]->next;
+                min_heap.push(std::make_pair(lists[index]->val,index));
+            }
+            cout << "new item get in heap!"<<endl;
+            min_heap.pop();//将当前最小值所属的链表推到到下一位，并且出堆
+            cout << "top of the heap out of!" << endl;
+            
+        }
+        
+        return real_head;
+    }
+};
