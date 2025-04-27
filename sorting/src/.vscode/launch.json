@@ -1,31 +1,26 @@
 {
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "C++ Debug (GDB)", // 配置名称
-            "type": "cppdbg",         // 调试器类型（C++ 使用 cppdbg）
-            "request": "launch",      // 启动方式（launch 或 attach）
-            "program": "${workspaceFolder}/build/my_program.exe", // 可执行文件路径
-            "args": [],              // 传递给程序的命令行参数
-            "stopAtEntry": false,     // 是否在程序入口处暂停
-            "cwd": "${workspaceFolder}/build", // 工作目录
-            "environment": [],        // 环境变量
-            "externalConsole": false, // 是否使用外部终端（true: 额外弹出终端，false: 使用 VSCode 终端）
-            "MIMode": "gdb",         // 调试器模式（gdb 或 lldb）
-            "setupCommands": [
-                {
-                    "description": "Enable pretty-printing for gdb",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
-                }
-            ],
-            "preLaunchTask": "C++ Build Task", // 调试前运行的任务（确保和 tasks.json 里匹配）
-            "miDebuggerPath": "E:/mingw64/bin/gdb.exe", // MinGW GDB 调试器路径
-            "logging": {
-                "trace": false,       // 启用调试日志
-                "traceResponse": false,
-                "engineLogging": false
-            }
-        }
+      {
+        "name": "Debug Current CPP File",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}/build/${fileBasenameNoExtension}.exe", // 自动匹配当前文件
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}/build",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerPath": "E://mingw64//bin//gdb.exe", // 修改为你的gdb路径
+        "preLaunchTask": "Build Current CPP File",     // 与tasks.json的label一致
+        "setupCommands": [
+          {
+            "description": "启用GDB美化打印",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ]
+      }
     ]
-}
+  }
