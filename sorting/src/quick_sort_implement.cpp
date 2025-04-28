@@ -98,7 +98,10 @@ void quick_sort_v1(int *arr, int l, int r) {
 
 void quick_sort_my_hoare(int* arr, int l, int r){ //我的hoare分区版本
         if(r - l <=  2){
-           if(r - l <= 1)return;
+           if(r - l <= 1)return;/*边界情况只需要这一句就好了，所有的情况缩到最简
+                                  就是这样一种情况，但是不可以r - l <= 1,因为挖坑法和
+                                  hoare分区的实现不同，hoare分区要求要交换，它不存在
+                                  r - 1,不会缩到 r == l这种情况，除非原数组开始就为空*/
             if(arr[l] > arr[l + 1])swap(arr[l], arr[l + 1]);
             return;
         }
