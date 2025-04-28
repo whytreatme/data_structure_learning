@@ -68,10 +68,11 @@ void quick_sort_huguang(int *arr, int l, int r) {
 
 void quick_sort_v1(int *arr, int l, int r) {
     if (r - l <= 2) {
-        if (r - l <= 1) return ;
+          if (r - l <= 1) return ;
         if (arr[l] > arr[l + 1]) swap(arr[l], arr[l + 1]);
         return ;
     }
+  
     // partition
       /*
         要点有三：1）防止数组越界，hoare分区本质上是没有监督的，并且基准值也是在排序的范畴，
@@ -118,6 +119,27 @@ void quick_sort_my_hoare(int* arr, int l, int r){ //我的hoare分区版本
         return;
 }
 
+void quick_sort_my_hoare_v4(int* arr, int l, int r){ //我的hoare分区版本
+    while(r > l){
+    if(r - l <=  2){
+       if(r - l <= 1)return;
+        if(arr[l] > arr[l + 1])swap(arr[l], arr[l + 1]);
+        return;
+    }
+    
+    int pivot = arr[l], sp = l - 1, bp = r ;
+    while(true){
+        do{++sp;}while(arr[sp] < pivot);
+        do{--bp;}while(arr[bp] > pivot);
+        if(sp > bp)break; 
+        swap(arr[sp], arr[bp]);
+    } 
+    quick_sort_my_hoare_v4(arr, l, sp);
+    l = sp;
+    }
+    return;
+}
+
 int main(){
     int* arr_b = getRandData(BIG_DATA_N);
     //int* arr_s = getRandData(SMALL_DATA_N);
@@ -128,8 +150,9 @@ int main(){
     //TEST(quick_sort_change, arr_s, SMALL_DATA_N);
    // TEST(quick_sort_huguang, arr_b, BIG_DATA_N);
     //TEST(quick_sort_huguang, arr_s, SMALL_DATA_N);
-  //  TEST(quick_sort_v1, arr_b, BIG_DATA_N);
+    TEST(quick_sort_v1, arr_b, BIG_DATA_N);
     TEST(quick_sort_my_hoare, arr_b, BIG_DATA_N);
+    TEST(quick_sort_my_hoare_v4, arr_b, BIG_DATA_N);
     free(arr_b);
     //free(arr_s);
     //delete[] arr_test;
