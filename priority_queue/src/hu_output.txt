@@ -1,0 +1,2001 @@
+871 566
+885 869
+255 465
+373 809
+338 990
+834 258
+568 545
+346 133
+773 912
+157 705
+723 589
+51 437
+166 219
+496 748
+256 500
+234 605
+935 826
+978 261
+612 861
+721 81
+142 509
+846 102
+94 929
+557 284
+947 463
+881 139
+289 812
+245 652
+702 558
+928 619
+213 360
+479 404
+519 398
+736 164
+390 226
+948 384
+251 230
+979 92
+491 323
+255 949
+566 193
+458 695
+537 240
+9 999
+340 423
+606 904
+261 51
+80 56
+158 258
+422 512
+509 831
+804 727
+907 697
+796 665
+792 896
+432 271
+693 408
+239 582
+801 593
+375 948
+928 301
+330 1000
+464 340
+924 250
+910 501
+172 555
+953 150
+761 510
+261 573
+31 646
+324 248
+409 786
+71 994
+913 87
+715 95
+94 365
+994 266
+238 85
+718 732
+460 673
+742 576
+531 548
+306 621
+620 363
+217 644
+292 332
+550 250
+458 494
+430 728
+647 738
+277 241
+943 345
+514 276
+175 878
+752 467
+392 869
+374 819
+219 595
+449 493
+437 544
+128 508
+596 635
+232 48
+714 324
+713 738
+946 680
+89 961
+257 608
+216 412
+96 179
+124 57
+447 846
+974 686
+59 113
+396 446
+523 4
+560 958
+599 241
+497 984
+498 596
+544 807
+722 832
+278 453
+93 571
+508 106
+359 333
+763 446
+841 309
+390 752
+52 525
+460 431
+982 159
+994 370
+132 384
+768 907
+225 860
+531 537
+62 426
+108 190
+603 113
+246 678
+732 995
+125 617
+655 121
+990 411
+605 872
+89 138
+712 50
+966 471
+668 375
+71 401
+568 62
+498 414
+159 239
+907 308
+890 507
+39 799
+624 366
+571 291
+385 843
+286 245
+999 432
+260 989
+326 948
+621 879
+782 839
+797 322
+919 609
+717 815
+148 358
+603 286
+386 719
+941 494
+851 956
+219 924
+622 425
+310 655
+922 103
+315 681
+3 517
+389 560
+995 407
+402 493
+765 533
+444 700
+38 183
+956 502
+245 879
+690 444
+868 823
+95 708
+447 518
+774 929
+469 21
+432 110
+941 350
+384 603
+467 559
+406 707
+82 867
+848 917
+244 658
+790 370
+712 811
+772 678
+772 103
+517 339
+267 999
+374 706
+608 704
+618 443
+596 270
+932 752
+765 551
+697 564
+103 498
+847 665
+591 40
+297 579
+222 33
+357 815
+834 938
+175 249
+675 606
+719 516
+21 146
+480 50
+217 493
+811 798
+329 488
+228 328
+388 315
+578 266
+6 128
+501 481
+300 227
+363 894
+199 322
+52 605
+359 770
+167 237
+185 186
+924 873
+76 628
+11 959
+8 481
+549 71
+216 828
+90 694
+130 802
+490 236
+965 233
+856 538
+418 790
+500 312
+494 155
+296 638
+831 977
+757 753
+700 282
+510 33
+826 723
+45 65
+428 783
+717 974
+939 487
+185 971
+255 353
+419 724
+684 191
+167 314
+49 282
+360 303
+253 214
+547 570
+410 687
+963 941
+910 180
+933 621
+352 548
+941 554
+120 614
+640 320
+770 53
+316 84
+365 380
+604 987
+15 902
+369 8
+459 905
+998 708
+781 308
+778 259
+565 438
+259 716
+875 953
+225 465
+466 1000
+440 113
+599 260
+795 602
+932 597
+893 978
+640 927
+241 576
+562 67
+646 287
+414 1000
+507 379
+735 553
+441 902
+373 760
+248 629
+408 699
+770 991
+86 759
+320 614
+802 554
+481 673
+966 198
+650 488
+82 98
+91 626
+933 779
+222 348
+770 963
+189 163
+783 656
+140 316
+323 849
+949 25
+902 101
+499 575
+262 348
+113 958
+519 249
+947 577
+714 641
+765 86
+521 661
+675 799
+665 350
+817 755
+297 490
+244 687
+690 665
+56 329
+440 462
+996 598
+9 546
+899 690
+155 779
+468 560
+258 413
+236 763
+850 287
+370 253
+50 242
+467 669
+362 805
+888 254
+934 372
+541 981
+420 946
+619 843
+378 101
+552 229
+987 641
+997 744
+460 448
+600 721
+849 992
+955 580
+966 709
+885 634
+219 841
+80 881
+815 273
+219 31
+512 122
+160 894
+346 204
+80 207
+847 693
+534 320
+165 321
+321 295
+238 273
+598 308
+860 601
+878 882
+899 230
+44 319
+804 216
+201 333
+487 717
+627 455
+832 895
+860 687
+662 414
+63 367
+168 920
+696 23
+64 856
+148 783
+821 613
+622 381
+923 69
+988 441
+246 130
+201 407
+599 619
+245 45
+94 990
+330 6
+848 213
+712 14
+363 910
+851 247
+792 327
+667 235
+576 986
+357 835
+835 613
+800 239
+356 718
+994 351
+361 949
+148 842
+329 154
+531 540
+615 192
+897 349
+822 34
+980 976
+749 270
+204 785
+262 735
+387 451
+506 815
+584 289
+295 228
+492 155
+612 450
+993 140
+611 290
+336 561
+656 386
+714 508
+258 116
+641 26
+752 891
+488 369
+654 724
+152 175
+760 18
+428 823
+94 524
+135 157
+144 330
+653 588
+188 918
+448 149
+230 520
+940 515
+791 221
+228 181
+873 632
+462 115
+705 825
+388 685
+982 798
+869 425
+194 711
+732 355
+847 958
+375 185
+411 567
+170 887
+847 716
+101 513
+180 796
+964 192
+511 557
+285 199
+471 991
+199 166
+580 891
+657 30
+674 972
+689 22
+327 629
+230 589
+345 843
+104 793
+43 557
+174 767
+826 761
+136 84
+19 192
+103 452
+183 485
+985 538
+217 194
+226 231
+23 804
+711 165
+984 871
+668 806
+390 901
+753 921
+379 787
+352 662
+304 653
+170 385
+76 763
+971 292
+714 883
+515 688
+350 298
+990 436
+369 477
+870 66
+11 69
+120 197
+889 970
+149 64
+207 847
+41 163
+295 782
+17 823
+619 885
+464 557
+111 770
+387 313
+227 723
+119 709
+479 113
+71 435
+319 70
+770 242
+290 60
+691 982
+366 336
+563 897
+422 543
+997 398
+839 103
+304 136
+759 577
+267 542
+46 150
+155 233
+66 608
+512 793
+918 650
+945 77
+986 722
+77 938
+257 782
+525 607
+414 333
+262 614
+257 424
+730 572
+521 280
+953 773
+106 258
+932 778
+177 400
+299 860
+533 281
+495 886
+241 357
+138 470
+767 177
+446 852
+711 402
+564 406
+344 16
+662 299
+598 168
+7 606
+957 47
+961 766
+805 11
+830 92
+918 828
+411 276
+494 140
+3 544
+345 906
+64 385
+88 541
+951 287
+133 743
+236 563
+598 304
+891 451
+640 53
+434 438
+45 273
+339 985
+385 850
+742 209
+522 559
+166 937
+926 49
+98 6
+498 87
+607 433
+680 862
+804 501
+304 832
+367 914
+754 669
+294 458
+706 792
+889 466
+502 372
+142 763
+580 646
+188 625
+7 612
+180 939
+532 454
+12 828
+832 92
+167 905
+604 441
+562 341
+924 750
+471 74
+700 490
+911 504
+92 809
+556 602
+493 746
+229 87
+572 533
+462 223
+191 68
+479 888
+158 314
+107 847
+100 898
+900 346
+29 313
+268 653
+578 598
+903 35
+771 737
+608 816
+565 514
+282 541
+396 443
+8 556
+114 201
+222 836
+553 102
+857 127
+725 979
+172 514
+974 837
+277 684
+69 661
+960 499
+180 964
+139 308
+667 150
+401 705
+280 367
+634 216
+350 899
+682 561
+402 962
+865 56
+362 309
+4 164
+454 194
+539 543
+540 998
+706 72
+215 459
+667 869
+151 167
+11 36
+279 559
+836 140
+819 60
+508 527
+880 326
+28 139
+993 54
+83 658
+654 952
+4 190
+768 777
+205 665
+563 581
+233 180
+939 620
+601 726
+778 901
+94 616
+152 820
+339 862
+420 17
+688 696
+546 161
+465 554
+86 840
+913 473
+400 174
+513 695
+937 690
+790 505
+660 645
+258 471
+344 737
+569 515
+549 697
+182 502
+245 858
+711 471
+822 651
+271 149
+981 817
+650 592
+493 214
+822 314
+304 771
+41 996
+53 387
+133 934
+642 570
+171 135
+156 917
+647 582
+605 300
+104 256
+261 862
+451 243
+132 235
+584 866
+510 928
+389 410
+425 271
+601 156
+27 605
+516 821
+592 136
+725 586
+754 856
+173 512
+1 252
+626 266
+246 905
+326 908
+818 607
+297 504
+324 197
+68 375
+315 262
+840 379
+137 67
+990 34
+369 259
+808 869
+538 896
+495 898
+731 20
+487 70
+498 508
+744 415
+880 908
+591 66
+679 443
+780 104
+15 585
+805 871
+341 854
+203 982
+941 532
+210 640
+338 967
+255 621
+579 140
+342 821
+680 104
+458 542
+413 274
+712 464
+726 868
+582 695
+125 166
+295 33
+703 124
+938 809
+301 170
+637 835
+858 844
+388 296
+424 770
+599 92
+329 276
+514 567
+538 306
+894 265
+26 520
+56 514
+732 704
+792 849
+768 48
+277 930
+929 853
+544 349
+747 312
+894 813
+331 536
+810 278
+156 616
+26 739
+631 227
+280 623
+778 221
+388 434
+948 980
+223 886
+648 407
+435 195
+632 653
+602 127
+293 466
+909 490
+460 221
+815 426
+746 261
+8 346
+395 493
+533 40
+591 341
+128 295
+911 780
+500 370
+398 995
+157 258
+939 107
+397 2
+655 250
+865 688
+690 74
+366 935
+90 194
+6 107
+487 953
+231 445
+712 96
+894 440
+546 47
+751 643
+715 147
+553 744
+706 679
+32 459
+633 616
+794 503
+229 733
+431 790
+590 407
+930 784
+658 918
+933 350
+30 476
+364 951
+272 886
+553 402
+935 583
+568 245
+276 223
+523 37
+741 597
+97 231
+238 536
+194 167
+283 973
+758 335
+613 92
+183 619
+609 19
+356 642
+599 863
+696 463
+32 960
+210 856
+17 829
+638 463
+592 1000
+932 976
+741 747
+55 522
+851 275
+297 761
+383 875
+437 771
+616 340
+213 834
+455 940
+189 993
+929 853
+392 715
+322 976
+593 744
+677 713
+132 41
+945 557
+863 502
+150 473
+723 262
+489 132
+135 143
+396 832
+415 351
+401 773
+488 818
+880 79
+16 388
+143 841
+284 849
+426 937
+58 467
+387 854
+448 341
+371 575
+508 310
+242 582
+933 727
+468 734
+506 216
+181 480
+266 576
+318 996
+891 180
+383 758
+127 26
+679 415
+668 566
+859 918
+323 621
+955 830
+260 344
+747 946
+703 635
+457 294
+94 263
+634 39
+641 332
+850 814
+122 971
+43 297
+683 483
+613 667
+756 386
+176 726
+753 583
+142 101
+115 78
+828 334
+766 331
+626 608
+923 754
+553 426
+487 966
+956 285
+180 769
+611 882
+262 708
+116 830
+480 943
+946 485
+912 51
+883 29
+577 190
+636 557
+656 399
+952 781
+801 458
+825 7
+586 246
+990 935
+600 157
+829 168
+393 844
+179 279
+530 756
+266 491
+730 968
+234 333
+518 329
+812 580
+Now i is 0,  and arr[i].d is 2,  arr[i].p is 397
+Now i is 1,  and arr[i].d is 4,  arr[i].p is 523
+Now i is 2,  and arr[i].d is 6,  arr[i].p is 330
+Now i is 3,  and arr[i].d is 6,  arr[i].p is 98
+Now i is 4,  and arr[i].d is 7,  arr[i].p is 825
+Now i is 5,  and arr[i].d is 8,  arr[i].p is 369
+Now i is 6,  and arr[i].d is 11,  arr[i].p is 805
+Now i is 7,  and arr[i].d is 14,  arr[i].p is 712
+Now i is 8,  and arr[i].d is 16,  arr[i].p is 344
+Now i is 9,  and arr[i].d is 17,  arr[i].p is 420
+Now i is 10,  and arr[i].d is 18,  arr[i].p is 760
+Now i is 11,  and arr[i].d is 19,  arr[i].p is 609
+Now i is 12,  and arr[i].d is 20,  arr[i].p is 731
+Now i is 13,  and arr[i].d is 21,  arr[i].p is 469
+Now i is 14,  and arr[i].d is 22,  arr[i].p is 689
+Now i is 15,  and arr[i].d is 23,  arr[i].p is 696
+Now i is 16,  and arr[i].d is 25,  arr[i].p is 949
+Now i is 17,  and arr[i].d is 26,  arr[i].p is 641
+Now i is 18,  and arr[i].d is 26,  arr[i].p is 127
+Now i is 19,  and arr[i].d is 29,  arr[i].p is 883
+Now i is 20,  and arr[i].d is 30,  arr[i].p is 657
+Now i is 21,  and arr[i].d is 31,  arr[i].p is 219
+Now i is 22,  and arr[i].d is 33,  arr[i].p is 510
+Now i is 23,  and arr[i].d is 33,  arr[i].p is 295
+Now i is 24,  and arr[i].d is 33,  arr[i].p is 222
+Now i is 25,  and arr[i].d is 34,  arr[i].p is 990
+Now i is 26,  and arr[i].d is 34,  arr[i].p is 822
+Now i is 27,  and arr[i].d is 35,  arr[i].p is 903
+Now i is 28,  and arr[i].d is 36,  arr[i].p is 11
+Now i is 29,  and arr[i].d is 37,  arr[i].p is 523
+Now i is 30,  and arr[i].d is 39,  arr[i].p is 634
+Now i is 31,  and arr[i].d is 40,  arr[i].p is 591
+Now i is 32,  and arr[i].d is 40,  arr[i].p is 533
+Now i is 33,  and arr[i].d is 41,  arr[i].p is 132
+Now i is 34,  and arr[i].d is 45,  arr[i].p is 245
+Now i is 35,  and arr[i].d is 47,  arr[i].p is 957
+Now i is 36,  and arr[i].d is 47,  arr[i].p is 546
+Now i is 37,  and arr[i].d is 48,  arr[i].p is 768
+Now i is 38,  and arr[i].d is 48,  arr[i].p is 232
+Now i is 39,  and arr[i].d is 49,  arr[i].p is 926
+Now i is 40,  and arr[i].d is 50,  arr[i].p is 712
+Now i is 41,  and arr[i].d is 50,  arr[i].p is 480
+Now i is 42,  and arr[i].d is 51,  arr[i].p is 912
+Now i is 43,  and arr[i].d is 51,  arr[i].p is 261
+Now i is 44,  and arr[i].d is 53,  arr[i].p is 770
+Now i is 45,  and arr[i].d is 53,  arr[i].p is 640
+Now i is 46,  and arr[i].d is 54,  arr[i].p is 993
+Now i is 47,  and arr[i].d is 56,  arr[i].p is 865
+Now i is 48,  and arr[i].d is 56,  arr[i].p is 80
+Now i is 49,  and arr[i].d is 57,  arr[i].p is 124
+Now i is 50,  and arr[i].d is 60,  arr[i].p is 819
+Now i is 51,  and arr[i].d is 60,  arr[i].p is 290
+Now i is 52,  and arr[i].d is 62,  arr[i].p is 568
+Now i is 53,  and arr[i].d is 64,  arr[i].p is 149
+Now i is 54,  and arr[i].d is 65,  arr[i].p is 45
+Now i is 55,  and arr[i].d is 66,  arr[i].p is 870
+Now i is 56,  and arr[i].d is 66,  arr[i].p is 591
+Now i is 57,  and arr[i].d is 67,  arr[i].p is 562
+Now i is 58,  and arr[i].d is 67,  arr[i].p is 137
+Now i is 59,  and arr[i].d is 68,  arr[i].p is 191
+Now i is 60,  and arr[i].d is 69,  arr[i].p is 923
+Now i is 61,  and arr[i].d is 69,  arr[i].p is 11
+Now i is 62,  and arr[i].d is 70,  arr[i].p is 487
+Now i is 63,  and arr[i].d is 70,  arr[i].p is 319
+Now i is 64,  and arr[i].d is 71,  arr[i].p is 549
+Now i is 65,  and arr[i].d is 72,  arr[i].p is 706
+Now i is 66,  and arr[i].d is 74,  arr[i].p is 690
+Now i is 67,  and arr[i].d is 74,  arr[i].p is 471
+Now i is 68,  and arr[i].d is 77,  arr[i].p is 945
+Now i is 69,  and arr[i].d is 78,  arr[i].p is 115
+Now i is 70,  and arr[i].d is 79,  arr[i].p is 880
+Now i is 71,  and arr[i].d is 81,  arr[i].p is 721
+Now i is 72,  and arr[i].d is 84,  arr[i].p is 316
+Now i is 73,  and arr[i].d is 84,  arr[i].p is 136
+Now i is 74,  and arr[i].d is 85,  arr[i].p is 238
+Now i is 75,  and arr[i].d is 86,  arr[i].p is 765
+Now i is 76,  and arr[i].d is 87,  arr[i].p is 913
+Now i is 77,  and arr[i].d is 87,  arr[i].p is 498
+Now i is 78,  and arr[i].d is 87,  arr[i].p is 229
+Now i is 79,  and arr[i].d is 92,  arr[i].p is 979
+Now i is 80,  and arr[i].d is 92,  arr[i].p is 832
+Now i is 81,  and arr[i].d is 92,  arr[i].p is 830
+Now i is 82,  and arr[i].d is 92,  arr[i].p is 613
+Now i is 83,  and arr[i].d is 92,  arr[i].p is 599
+Now i is 84,  and arr[i].d is 95,  arr[i].p is 715
+Now i is 85,  and arr[i].d is 96,  arr[i].p is 712
+Now i is 86,  and arr[i].d is 98,  arr[i].p is 82
+Now i is 87,  and arr[i].d is 101,  arr[i].p is 902
+Now i is 88,  and arr[i].d is 101,  arr[i].p is 378
+Now i is 89,  and arr[i].d is 101,  arr[i].p is 142
+Now i is 90,  and arr[i].d is 102,  arr[i].p is 846
+Now i is 91,  and arr[i].d is 102,  arr[i].p is 553
+Now i is 92,  and arr[i].d is 103,  arr[i].p is 922
+Now i is 93,  and arr[i].d is 103,  arr[i].p is 839
+Now i is 94,  and arr[i].d is 103,  arr[i].p is 772
+Now i is 95,  and arr[i].d is 104,  arr[i].p is 780
+Now i is 96,  and arr[i].d is 104,  arr[i].p is 680
+Now i is 97,  and arr[i].d is 106,  arr[i].p is 508
+Now i is 98,  and arr[i].d is 107,  arr[i].p is 939
+Now i is 99,  and arr[i].d is 107,  arr[i].p is 6
+Now i is 100,  and arr[i].d is 110,  arr[i].p is 432
+Now i is 101,  and arr[i].d is 113,  arr[i].p is 603
+Now i is 102,  and arr[i].d is 113,  arr[i].p is 479
+Now i is 103,  and arr[i].d is 113,  arr[i].p is 440
+Now i is 104,  and arr[i].d is 113,  arr[i].p is 59
+Now i is 105,  and arr[i].d is 115,  arr[i].p is 462
+Now i is 106,  and arr[i].d is 116,  arr[i].p is 258
+Now i is 107,  and arr[i].d is 121,  arr[i].p is 655
+Now i is 108,  and arr[i].d is 122,  arr[i].p is 512
+Now i is 109,  and arr[i].d is 124,  arr[i].p is 703
+Now i is 110,  and arr[i].d is 127,  arr[i].p is 857
+Now i is 111,  and arr[i].d is 127,  arr[i].p is 602
+Now i is 112,  and arr[i].d is 128,  arr[i].p is 6
+Now i is 113,  and arr[i].d is 130,  arr[i].p is 246
+Now i is 114,  and arr[i].d is 132,  arr[i].p is 489
+Now i is 115,  and arr[i].d is 133,  arr[i].p is 346
+Now i is 116,  and arr[i].d is 135,  arr[i].p is 171
+Now i is 117,  and arr[i].d is 136,  arr[i].p is 592
+Now i is 118,  and arr[i].d is 136,  arr[i].p is 304
+Now i is 119,  and arr[i].d is 138,  arr[i].p is 89
+Now i is 120,  and arr[i].d is 139,  arr[i].p is 881
+Now i is 121,  and arr[i].d is 139,  arr[i].p is 28
+Now i is 122,  and arr[i].d is 140,  arr[i].p is 993
+Now i is 123,  and arr[i].d is 140,  arr[i].p is 836
+Now i is 124,  and arr[i].d is 140,  arr[i].p is 579
+Now i is 125,  and arr[i].d is 140,  arr[i].p is 494
+Now i is 126,  and arr[i].d is 143,  arr[i].p is 135
+Now i is 127,  and arr[i].d is 146,  arr[i].p is 21
+Now i is 128,  and arr[i].d is 147,  arr[i].p is 715
+Now i is 129,  and arr[i].d is 149,  arr[i].p is 448
+Now i is 130,  and arr[i].d is 149,  arr[i].p is 271
+Now i is 131,  and arr[i].d is 150,  arr[i].p is 953
+Now i is 132,  and arr[i].d is 150,  arr[i].p is 667
+Now i is 133,  and arr[i].d is 150,  arr[i].p is 46
+Now i is 134,  and arr[i].d is 154,  arr[i].p is 329
+Now i is 135,  and arr[i].d is 155,  arr[i].p is 494
+Now i is 136,  and arr[i].d is 155,  arr[i].p is 492
+Now i is 137,  and arr[i].d is 156,  arr[i].p is 601
+Now i is 138,  and arr[i].d is 157,  arr[i].p is 600
+Now i is 139,  and arr[i].d is 157,  arr[i].p is 135
+Now i is 140,  and arr[i].d is 159,  arr[i].p is 982
+Now i is 141,  and arr[i].d is 161,  arr[i].p is 546
+Now i is 142,  and arr[i].d is 163,  arr[i].p is 189
+Now i is 143,  and arr[i].d is 163,  arr[i].p is 41
+Now i is 144,  and arr[i].d is 164,  arr[i].p is 736
+Now i is 145,  and arr[i].d is 164,  arr[i].p is 4
+Now i is 146,  and arr[i].d is 165,  arr[i].p is 711
+Now i is 147,  and arr[i].d is 166,  arr[i].p is 199
+Now i is 148,  and arr[i].d is 166,  arr[i].p is 125
+Now i is 149,  and arr[i].d is 167,  arr[i].p is 194
+Now i is 150,  and arr[i].d is 167,  arr[i].p is 151
+Now i is 151,  and arr[i].d is 168,  arr[i].p is 829
+Now i is 152,  and arr[i].d is 168,  arr[i].p is 598
+Now i is 153,  and arr[i].d is 170,  arr[i].p is 301
+Now i is 154,  and arr[i].d is 174,  arr[i].p is 400
+Now i is 155,  and arr[i].d is 175,  arr[i].p is 152
+Now i is 156,  and arr[i].d is 177,  arr[i].p is 767
+Now i is 157,  and arr[i].d is 179,  arr[i].p is 96
+Now i is 158,  and arr[i].d is 180,  arr[i].p is 910
+Now i is 159,  and arr[i].d is 180,  arr[i].p is 891
+Now i is 160,  and arr[i].d is 180,  arr[i].p is 233
+Now i is 161,  and arr[i].d is 181,  arr[i].p is 228
+Now i is 162,  and arr[i].d is 183,  arr[i].p is 38
+Now i is 163,  and arr[i].d is 185,  arr[i].p is 375
+Now i is 164,  and arr[i].d is 186,  arr[i].p is 185
+Now i is 165,  and arr[i].d is 190,  arr[i].p is 577
+Now i is 166,  and arr[i].d is 190,  arr[i].p is 108
+Now i is 167,  and arr[i].d is 190,  arr[i].p is 4
+Now i is 168,  and arr[i].d is 191,  arr[i].p is 684
+Now i is 169,  and arr[i].d is 192,  arr[i].p is 964
+Now i is 170,  and arr[i].d is 192,  arr[i].p is 615
+Now i is 171,  and arr[i].d is 192,  arr[i].p is 19
+Now i is 172,  and arr[i].d is 193,  arr[i].p is 566
+Now i is 173,  and arr[i].d is 194,  arr[i].p is 454
+Now i is 174,  and arr[i].d is 194,  arr[i].p is 217
+Now i is 175,  and arr[i].d is 194,  arr[i].p is 90
+Now i is 176,  and arr[i].d is 195,  arr[i].p is 435
+Now i is 177,  and arr[i].d is 197,  arr[i].p is 324
+Now i is 178,  and arr[i].d is 197,  arr[i].p is 120
+Now i is 179,  and arr[i].d is 198,  arr[i].p is 966
+Now i is 180,  and arr[i].d is 199,  arr[i].p is 285
+Now i is 181,  and arr[i].d is 201,  arr[i].p is 114
+Now i is 182,  and arr[i].d is 204,  arr[i].p is 346
+Now i is 183,  and arr[i].d is 207,  arr[i].p is 80
+Now i is 184,  and arr[i].d is 209,  arr[i].p is 742
+Now i is 185,  and arr[i].d is 213,  arr[i].p is 848
+Now i is 186,  and arr[i].d is 214,  arr[i].p is 493
+Now i is 187,  and arr[i].d is 214,  arr[i].p is 253
+Now i is 188,  and arr[i].d is 216,  arr[i].p is 804
+Now i is 189,  and arr[i].d is 216,  arr[i].p is 634
+Now i is 190,  and arr[i].d is 216,  arr[i].p is 506
+Now i is 191,  and arr[i].d is 219,  arr[i].p is 166
+Now i is 192,  and arr[i].d is 221,  arr[i].p is 791
+Now i is 193,  and arr[i].d is 221,  arr[i].p is 778
+Now i is 194,  and arr[i].d is 221,  arr[i].p is 460
+Now i is 195,  and arr[i].d is 223,  arr[i].p is 462
+Now i is 196,  and arr[i].d is 223,  arr[i].p is 276
+Now i is 197,  and arr[i].d is 226,  arr[i].p is 390
+Now i is 198,  and arr[i].d is 227,  arr[i].p is 631
+Now i is 199,  and arr[i].d is 227,  arr[i].p is 300
+Now i is 200,  and arr[i].d is 228,  arr[i].p is 295
+Now i is 201,  and arr[i].d is 229,  arr[i].p is 552
+Now i is 202,  and arr[i].d is 230,  arr[i].p is 899
+Now i is 203,  and arr[i].d is 230,  arr[i].p is 251
+Now i is 204,  and arr[i].d is 231,  arr[i].p is 226
+Now i is 205,  and arr[i].d is 231,  arr[i].p is 97
+Now i is 206,  and arr[i].d is 233,  arr[i].p is 965
+Now i is 207,  and arr[i].d is 233,  arr[i].p is 155
+Now i is 208,  and arr[i].d is 235,  arr[i].p is 667
+Now i is 209,  and arr[i].d is 235,  arr[i].p is 132
+Now i is 210,  and arr[i].d is 236,  arr[i].p is 490
+Now i is 211,  and arr[i].d is 237,  arr[i].p is 167
+Now i is 212,  and arr[i].d is 239,  arr[i].p is 800
+Now i is 213,  and arr[i].d is 239,  arr[i].p is 159
+Now i is 214,  and arr[i].d is 240,  arr[i].p is 537
+Now i is 215,  and arr[i].d is 241,  arr[i].p is 599
+Now i is 216,  and arr[i].d is 241,  arr[i].p is 277
+Now i is 217,  and arr[i].d is 242,  arr[i].p is 770
+Now i is 218,  and arr[i].d is 242,  arr[i].p is 50
+Now i is 219,  and arr[i].d is 243,  arr[i].p is 451
+Now i is 220,  and arr[i].d is 245,  arr[i].p is 568
+Now i is 221,  and arr[i].d is 245,  arr[i].p is 286
+Now i is 222,  and arr[i].d is 246,  arr[i].p is 586
+Now i is 223,  and arr[i].d is 247,  arr[i].p is 851
+Now i is 224,  and arr[i].d is 248,  arr[i].p is 324
+Now i is 225,  and arr[i].d is 249,  arr[i].p is 519
+Now i is 226,  and arr[i].d is 249,  arr[i].p is 175
+Now i is 227,  and arr[i].d is 250,  arr[i].p is 924
+Now i is 228,  and arr[i].d is 250,  arr[i].p is 655
+Now i is 229,  and arr[i].d is 250,  arr[i].p is 550
+Now i is 230,  and arr[i].d is 252,  arr[i].p is 1
+Now i is 231,  and arr[i].d is 253,  arr[i].p is 370
+Now i is 232,  and arr[i].d is 254,  arr[i].p is 888
+Now i is 233,  and arr[i].d is 256,  arr[i].p is 104
+Now i is 234,  and arr[i].d is 258,  arr[i].p is 834
+Now i is 235,  and arr[i].d is 258,  arr[i].p is 158
+Now i is 236,  and arr[i].d is 258,  arr[i].p is 157
+Now i is 237,  and arr[i].d is 258,  arr[i].p is 106
+Now i is 238,  and arr[i].d is 259,  arr[i].p is 778
+Now i is 239,  and arr[i].d is 259,  arr[i].p is 369
+Now i is 240,  and arr[i].d is 260,  arr[i].p is 599
+Now i is 241,  and arr[i].d is 261,  arr[i].p is 978
+Now i is 242,  and arr[i].d is 261,  arr[i].p is 746
+Now i is 243,  and arr[i].d is 262,  arr[i].p is 723
+Now i is 244,  and arr[i].d is 262,  arr[i].p is 315
+Now i is 245,  and arr[i].d is 263,  arr[i].p is 94
+Now i is 246,  and arr[i].d is 265,  arr[i].p is 894
+Now i is 247,  and arr[i].d is 266,  arr[i].p is 994
+Now i is 248,  and arr[i].d is 266,  arr[i].p is 626
+Now i is 249,  and arr[i].d is 266,  arr[i].p is 578
+Now i is 250,  and arr[i].d is 270,  arr[i].p is 749
+Now i is 251,  and arr[i].d is 270,  arr[i].p is 596
+Now i is 252,  and arr[i].d is 271,  arr[i].p is 432
+Now i is 253,  and arr[i].d is 271,  arr[i].p is 425
+Now i is 254,  and arr[i].d is 273,  arr[i].p is 815
+Now i is 255,  and arr[i].d is 273,  arr[i].p is 238
+Now i is 256,  and arr[i].d is 273,  arr[i].p is 45
+Now i is 257,  and arr[i].d is 274,  arr[i].p is 413
+Now i is 258,  and arr[i].d is 275,  arr[i].p is 851
+Now i is 259,  and arr[i].d is 276,  arr[i].p is 514
+Now i is 260,  and arr[i].d is 276,  arr[i].p is 411
+Now i is 261,  and arr[i].d is 276,  arr[i].p is 329
+Now i is 262,  and arr[i].d is 278,  arr[i].p is 810
+Now i is 263,  and arr[i].d is 279,  arr[i].p is 179
+Now i is 264,  and arr[i].d is 280,  arr[i].p is 521
+Now i is 265,  and arr[i].d is 281,  arr[i].p is 533
+Now i is 266,  and arr[i].d is 282,  arr[i].p is 700
+Now i is 267,  and arr[i].d is 282,  arr[i].p is 49
+Now i is 268,  and arr[i].d is 284,  arr[i].p is 557
+Now i is 269,  and arr[i].d is 285,  arr[i].p is 956
+Now i is 270,  and arr[i].d is 286,  arr[i].p is 603
+Now i is 271,  and arr[i].d is 287,  arr[i].p is 951
+Now i is 272,  and arr[i].d is 287,  arr[i].p is 850
+Now i is 273,  and arr[i].d is 287,  arr[i].p is 646
+Now i is 274,  and arr[i].d is 289,  arr[i].p is 584
+Now i is 275,  and arr[i].d is 290,  arr[i].p is 611
+Now i is 276,  and arr[i].d is 291,  arr[i].p is 571
+Now i is 277,  and arr[i].d is 292,  arr[i].p is 971
+Now i is 278,  and arr[i].d is 294,  arr[i].p is 457
+Now i is 279,  and arr[i].d is 295,  arr[i].p is 321
+Now i is 280,  and arr[i].d is 295,  arr[i].p is 128
+Now i is 281,  and arr[i].d is 296,  arr[i].p is 388
+Now i is 282,  and arr[i].d is 297,  arr[i].p is 43
+Now i is 283,  and arr[i].d is 298,  arr[i].p is 350
+Now i is 284,  and arr[i].d is 299,  arr[i].p is 662
+Now i is 285,  and arr[i].d is 300,  arr[i].p is 605
+Now i is 286,  and arr[i].d is 301,  arr[i].p is 928
+Now i is 287,  and arr[i].d is 303,  arr[i].p is 360
+Now i is 288,  and arr[i].d is 304,  arr[i].p is 598
+Now i is 289,  and arr[i].d is 306,  arr[i].p is 538
+Now i is 290,  and arr[i].d is 308,  arr[i].p is 907
+Now i is 291,  and arr[i].d is 308,  arr[i].p is 781
+Now i is 292,  and arr[i].d is 308,  arr[i].p is 598
+Now i is 293,  and arr[i].d is 308,  arr[i].p is 139
+Now i is 294,  and arr[i].d is 309,  arr[i].p is 841
+Now i is 295,  and arr[i].d is 309,  arr[i].p is 362
+Now i is 296,  and arr[i].d is 310,  arr[i].p is 508
+Now i is 297,  and arr[i].d is 312,  arr[i].p is 747
+Now i is 298,  and arr[i].d is 312,  arr[i].p is 500
+Now i is 299,  and arr[i].d is 313,  arr[i].p is 387
+Now i is 300,  and arr[i].d is 313,  arr[i].p is 29
+Now i is 301,  and arr[i].d is 314,  arr[i].p is 822
+Now i is 302,  and arr[i].d is 314,  arr[i].p is 167
+Now i is 303,  and arr[i].d is 314,  arr[i].p is 158
+Now i is 304,  and arr[i].d is 315,  arr[i].p is 388
+Now i is 305,  and arr[i].d is 316,  arr[i].p is 140
+Now i is 306,  and arr[i].d is 319,  arr[i].p is 44
+Now i is 307,  and arr[i].d is 320,  arr[i].p is 640
+Now i is 308,  and arr[i].d is 320,  arr[i].p is 534
+Now i is 309,  and arr[i].d is 321,  arr[i].p is 165
+Now i is 310,  and arr[i].d is 322,  arr[i].p is 797
+Now i is 311,  and arr[i].d is 322,  arr[i].p is 199
+Now i is 312,  and arr[i].d is 323,  arr[i].p is 491
+Now i is 313,  and arr[i].d is 324,  arr[i].p is 714
+Now i is 314,  and arr[i].d is 326,  arr[i].p is 880
+Now i is 315,  and arr[i].d is 327,  arr[i].p is 792
+Now i is 316,  and arr[i].d is 328,  arr[i].p is 228
+Now i is 317,  and arr[i].d is 329,  arr[i].p is 518
+Now i is 318,  and arr[i].d is 329,  arr[i].p is 56
+Now i is 319,  and arr[i].d is 330,  arr[i].p is 144
+Now i is 320,  and arr[i].d is 331,  arr[i].p is 766
+Now i is 321,  and arr[i].d is 332,  arr[i].p is 641
+Now i is 322,  and arr[i].d is 332,  arr[i].p is 292
+Now i is 323,  and arr[i].d is 333,  arr[i].p is 414
+Now i is 324,  and arr[i].d is 333,  arr[i].p is 359
+Now i is 325,  and arr[i].d is 333,  arr[i].p is 234
+Now i is 326,  and arr[i].d is 333,  arr[i].p is 201
+Now i is 327,  and arr[i].d is 334,  arr[i].p is 828
+Now i is 328,  and arr[i].d is 335,  arr[i].p is 758
+Now i is 329,  and arr[i].d is 336,  arr[i].p is 366
+Now i is 330,  and arr[i].d is 339,  arr[i].p is 517
+Now i is 331,  and arr[i].d is 340,  arr[i].p is 616
+Now i is 332,  and arr[i].d is 340,  arr[i].p is 464
+Now i is 333,  and arr[i].d is 341,  arr[i].p is 591
+Now i is 334,  and arr[i].d is 341,  arr[i].p is 562
+Now i is 335,  and arr[i].d is 341,  arr[i].p is 448
+Now i is 336,  and arr[i].d is 344,  arr[i].p is 260
+Now i is 337,  and arr[i].d is 345,  arr[i].p is 943
+Now i is 338,  and arr[i].d is 346,  arr[i].p is 900
+Now i is 339,  and arr[i].d is 346,  arr[i].p is 8
+Now i is 340,  and arr[i].d is 348,  arr[i].p is 262
+Now i is 341,  and arr[i].d is 348,  arr[i].p is 222
+Now i is 342,  and arr[i].d is 349,  arr[i].p is 897
+Now i is 343,  and arr[i].d is 349,  arr[i].p is 544
+Now i is 344,  and arr[i].d is 350,  arr[i].p is 941
+Now i is 345,  and arr[i].d is 350,  arr[i].p is 933
+Now i is 346,  and arr[i].d is 350,  arr[i].p is 665
+Now i is 347,  and arr[i].d is 351,  arr[i].p is 994
+Now i is 348,  and arr[i].d is 351,  arr[i].p is 415
+Now i is 349,  and arr[i].d is 353,  arr[i].p is 255
+Now i is 350,  and arr[i].d is 355,  arr[i].p is 732
+Now i is 351,  and arr[i].d is 357,  arr[i].p is 241
+Now i is 352,  and arr[i].d is 358,  arr[i].p is 148
+Now i is 353,  and arr[i].d is 360,  arr[i].p is 213
+Now i is 354,  and arr[i].d is 363,  arr[i].p is 620
+Now i is 355,  and arr[i].d is 365,  arr[i].p is 94
+Now i is 356,  and arr[i].d is 366,  arr[i].p is 624
+Now i is 357,  and arr[i].d is 367,  arr[i].p is 280
+Now i is 358,  and arr[i].d is 367,  arr[i].p is 63
+Now i is 359,  and arr[i].d is 369,  arr[i].p is 488
+Now i is 360,  and arr[i].d is 370,  arr[i].p is 994
+Now i is 361,  and arr[i].d is 370,  arr[i].p is 790
+Now i is 362,  and arr[i].d is 370,  arr[i].p is 500
+Now i is 363,  and arr[i].d is 372,  arr[i].p is 934
+Now i is 364,  and arr[i].d is 372,  arr[i].p is 502
+Now i is 365,  and arr[i].d is 375,  arr[i].p is 668
+Now i is 366,  and arr[i].d is 375,  arr[i].p is 68
+Now i is 367,  and arr[i].d is 379,  arr[i].p is 840
+Now i is 368,  and arr[i].d is 379,  arr[i].p is 507
+Now i is 369,  and arr[i].d is 380,  arr[i].p is 365
+Now i is 370,  and arr[i].d is 381,  arr[i].p is 622
+Now i is 371,  and arr[i].d is 384,  arr[i].p is 948
+Now i is 372,  and arr[i].d is 384,  arr[i].p is 132
+Now i is 373,  and arr[i].d is 385,  arr[i].p is 170
+Now i is 374,  and arr[i].d is 385,  arr[i].p is 64
+Now i is 375,  and arr[i].d is 386,  arr[i].p is 756
+Now i is 376,  and arr[i].d is 386,  arr[i].p is 656
+Now i is 377,  and arr[i].d is 387,  arr[i].p is 53
+Now i is 378,  and arr[i].d is 388,  arr[i].p is 16
+Now i is 379,  and arr[i].d is 398,  arr[i].p is 997
+Now i is 380,  and arr[i].d is 398,  arr[i].p is 519
+Now i is 381,  and arr[i].d is 399,  arr[i].p is 656
+Now i is 382,  and arr[i].d is 400,  arr[i].p is 177
+Now i is 383,  and arr[i].d is 401,  arr[i].p is 71
+Now i is 384,  and arr[i].d is 402,  arr[i].p is 711
+Now i is 385,  and arr[i].d is 402,  arr[i].p is 553
+Now i is 386,  and arr[i].d is 404,  arr[i].p is 479
+Now i is 387,  and arr[i].d is 406,  arr[i].p is 564
+Now i is 388,  and arr[i].d is 407,  arr[i].p is 995
+Now i is 389,  and arr[i].d is 407,  arr[i].p is 648
+Now i is 390,  and arr[i].d is 407,  arr[i].p is 590
+Now i is 391,  and arr[i].d is 407,  arr[i].p is 201
+Now i is 392,  and arr[i].d is 408,  arr[i].p is 693
+Now i is 393,  and arr[i].d is 410,  arr[i].p is 389
+Now i is 394,  and arr[i].d is 411,  arr[i].p is 990
+Now i is 395,  and arr[i].d is 412,  arr[i].p is 216
+Now i is 396,  and arr[i].d is 413,  arr[i].p is 258
+Now i is 397,  and arr[i].d is 414,  arr[i].p is 662
+Now i is 398,  and arr[i].d is 414,  arr[i].p is 498
+Now i is 399,  and arr[i].d is 415,  arr[i].p is 744
+Now i is 400,  and arr[i].d is 415,  arr[i].p is 679
+Now i is 401,  and arr[i].d is 423,  arr[i].p is 340
+Now i is 402,  and arr[i].d is 424,  arr[i].p is 257
+Now i is 403,  and arr[i].d is 425,  arr[i].p is 869
+Now i is 404,  and arr[i].d is 425,  arr[i].p is 622
+Now i is 405,  and arr[i].d is 426,  arr[i].p is 815
+Now i is 406,  and arr[i].d is 426,  arr[i].p is 553
+Now i is 407,  and arr[i].d is 426,  arr[i].p is 62
+Now i is 408,  and arr[i].d is 431,  arr[i].p is 460
+Now i is 409,  and arr[i].d is 432,  arr[i].p is 999
+Now i is 410,  and arr[i].d is 433,  arr[i].p is 607
+Now i is 411,  and arr[i].d is 434,  arr[i].p is 388
+Now i is 412,  and arr[i].d is 435,  arr[i].p is 71
+Now i is 413,  and arr[i].d is 436,  arr[i].p is 990
+Now i is 414,  and arr[i].d is 437,  arr[i].p is 51
+Now i is 415,  and arr[i].d is 438,  arr[i].p is 565
+Now i is 416,  and arr[i].d is 438,  arr[i].p is 434
+Now i is 417,  and arr[i].d is 440,  arr[i].p is 894
+Now i is 418,  and arr[i].d is 441,  arr[i].p is 988
+Now i is 419,  and arr[i].d is 441,  arr[i].p is 604
+Now i is 420,  and arr[i].d is 443,  arr[i].p is 679
+Now i is 421,  and arr[i].d is 443,  arr[i].p is 618
+Now i is 422,  and arr[i].d is 443,  arr[i].p is 396
+Now i is 423,  and arr[i].d is 444,  arr[i].p is 690
+Now i is 424,  and arr[i].d is 445,  arr[i].p is 231
+Now i is 425,  and arr[i].d is 446,  arr[i].p is 763
+Now i is 426,  and arr[i].d is 446,  arr[i].p is 396
+Now i is 427,  and arr[i].d is 448,  arr[i].p is 460
+Now i is 428,  and arr[i].d is 450,  arr[i].p is 612
+Now i is 429,  and arr[i].d is 451,  arr[i].p is 891
+Now i is 430,  and arr[i].d is 451,  arr[i].p is 387
+Now i is 431,  and arr[i].d is 452,  arr[i].p is 103
+Now i is 432,  and arr[i].d is 453,  arr[i].p is 278
+Now i is 433,  and arr[i].d is 454,  arr[i].p is 532
+Now i is 434,  and arr[i].d is 455,  arr[i].p is 627
+Now i is 435,  and arr[i].d is 458,  arr[i].p is 801
+Now i is 436,  and arr[i].d is 458,  arr[i].p is 294
+Now i is 437,  and arr[i].d is 459,  arr[i].p is 215
+Now i is 438,  and arr[i].d is 459,  arr[i].p is 32
+Now i is 439,  and arr[i].d is 462,  arr[i].p is 440
+Now i is 440,  and arr[i].d is 463,  arr[i].p is 947
+Now i is 441,  and arr[i].d is 463,  arr[i].p is 696
+Now i is 442,  and arr[i].d is 463,  arr[i].p is 638
+Now i is 443,  and arr[i].d is 464,  arr[i].p is 712
+Now i is 444,  and arr[i].d is 465,  arr[i].p is 255
+Now i is 445,  and arr[i].d is 465,  arr[i].p is 225
+Now i is 446,  and arr[i].d is 466,  arr[i].p is 889
+Now i is 447,  and arr[i].d is 466,  arr[i].p is 293
+Now i is 448,  and arr[i].d is 467,  arr[i].p is 752
+Now i is 449,  and arr[i].d is 467,  arr[i].p is 58
+Now i is 450,  and arr[i].d is 470,  arr[i].p is 138
+Now i is 451,  and arr[i].d is 471,  arr[i].p is 966
+Now i is 452,  and arr[i].d is 471,  arr[i].p is 711
+Now i is 453,  and arr[i].d is 471,  arr[i].p is 258
+Now i is 454,  and arr[i].d is 473,  arr[i].p is 913
+Now i is 455,  and arr[i].d is 473,  arr[i].p is 150
+Now i is 456,  and arr[i].d is 476,  arr[i].p is 30
+Now i is 457,  and arr[i].d is 477,  arr[i].p is 369
+Now i is 458,  and arr[i].d is 480,  arr[i].p is 181
+Now i is 459,  and arr[i].d is 481,  arr[i].p is 501
+Now i is 460,  and arr[i].d is 481,  arr[i].p is 8
+Now i is 461,  and arr[i].d is 483,  arr[i].p is 683
+Now i is 462,  and arr[i].d is 485,  arr[i].p is 946
+Now i is 463,  and arr[i].d is 485,  arr[i].p is 183
+Now i is 464,  and arr[i].d is 487,  arr[i].p is 939
+Now i is 465,  and arr[i].d is 488,  arr[i].p is 650
+Now i is 466,  and arr[i].d is 488,  arr[i].p is 329
+Now i is 467,  and arr[i].d is 490,  arr[i].p is 909
+Now i is 468,  and arr[i].d is 490,  arr[i].p is 700
+Now i is 469,  and arr[i].d is 490,  arr[i].p is 297
+Now i is 470,  and arr[i].d is 491,  arr[i].p is 266
+Now i is 471,  and arr[i].d is 493,  arr[i].p is 449
+Now i is 472,  and arr[i].d is 493,  arr[i].p is 402
+Now i is 473,  and arr[i].d is 493,  arr[i].p is 395
+Now i is 474,  and arr[i].d is 493,  arr[i].p is 217
+Now i is 475,  and arr[i].d is 494,  arr[i].p is 941
+Now i is 476,  and arr[i].d is 494,  arr[i].p is 458
+Now i is 477,  and arr[i].d is 498,  arr[i].p is 103
+Now i is 478,  and arr[i].d is 499,  arr[i].p is 960
+Now i is 479,  and arr[i].d is 500,  arr[i].p is 256
+Now i is 480,  and arr[i].d is 501,  arr[i].p is 910
+Now i is 481,  and arr[i].d is 501,  arr[i].p is 804
+Now i is 482,  and arr[i].d is 502,  arr[i].p is 956
+Now i is 483,  and arr[i].d is 502,  arr[i].p is 863
+Now i is 484,  and arr[i].d is 502,  arr[i].p is 182
+Now i is 485,  and arr[i].d is 503,  arr[i].p is 794
+Now i is 486,  and arr[i].d is 504,  arr[i].p is 911
+Now i is 487,  and arr[i].d is 504,  arr[i].p is 297
+Now i is 488,  and arr[i].d is 505,  arr[i].p is 790
+Now i is 489,  and arr[i].d is 507,  arr[i].p is 890
+Now i is 490,  and arr[i].d is 508,  arr[i].p is 714
+Now i is 491,  and arr[i].d is 508,  arr[i].p is 498
+Now i is 492,  and arr[i].d is 508,  arr[i].p is 128
+Now i is 493,  and arr[i].d is 509,  arr[i].p is 142
+Now i is 494,  and arr[i].d is 510,  arr[i].p is 761
+Now i is 495,  and arr[i].d is 512,  arr[i].p is 422
+Now i is 496,  and arr[i].d is 512,  arr[i].p is 173
+Now i is 497,  and arr[i].d is 513,  arr[i].p is 101
+Now i is 498,  and arr[i].d is 514,  arr[i].p is 565
+Now i is 499,  and arr[i].d is 514,  arr[i].p is 172
+Now i is 500,  and arr[i].d is 514,  arr[i].p is 56
+Now i is 501,  and arr[i].d is 515,  arr[i].p is 940
+Now i is 502,  and arr[i].d is 515,  arr[i].p is 569
+Now i is 503,  and arr[i].d is 516,  arr[i].p is 719
+Now i is 504,  and arr[i].d is 517,  arr[i].p is 3
+Now i is 505,  and arr[i].d is 518,  arr[i].p is 447
+Now i is 506,  and arr[i].d is 520,  arr[i].p is 230
+Now i is 507,  and arr[i].d is 520,  arr[i].p is 26
+Now i is 508,  and arr[i].d is 522,  arr[i].p is 55
+Now i is 509,  and arr[i].d is 524,  arr[i].p is 94
+Now i is 510,  and arr[i].d is 525,  arr[i].p is 52
+Now i is 511,  and arr[i].d is 527,  arr[i].p is 508
+Now i is 512,  and arr[i].d is 532,  arr[i].p is 941
+Now i is 513,  and arr[i].d is 533,  arr[i].p is 765
+Now i is 514,  and arr[i].d is 533,  arr[i].p is 572
+Now i is 515,  and arr[i].d is 536,  arr[i].p is 331
+Now i is 516,  and arr[i].d is 536,  arr[i].p is 238
+Now i is 517,  and arr[i].d is 537,  arr[i].p is 531
+Now i is 518,  and arr[i].d is 538,  arr[i].p is 985
+Now i is 519,  and arr[i].d is 538,  arr[i].p is 856
+Now i is 520,  and arr[i].d is 540,  arr[i].p is 531
+Now i is 521,  and arr[i].d is 541,  arr[i].p is 282
+Now i is 522,  and arr[i].d is 541,  arr[i].p is 88
+Now i is 523,  and arr[i].d is 542,  arr[i].p is 458
+Now i is 524,  and arr[i].d is 542,  arr[i].p is 267
+Now i is 525,  and arr[i].d is 543,  arr[i].p is 539
+Now i is 526,  and arr[i].d is 543,  arr[i].p is 422
+Now i is 527,  and arr[i].d is 544,  arr[i].p is 437
+Now i is 528,  and arr[i].d is 544,  arr[i].p is 3
+Now i is 529,  and arr[i].d is 545,  arr[i].p is 568
+Now i is 530,  and arr[i].d is 546,  arr[i].p is 9
+Now i is 531,  and arr[i].d is 548,  arr[i].p is 531
+Now i is 532,  and arr[i].d is 548,  arr[i].p is 352
+Now i is 533,  and arr[i].d is 551,  arr[i].p is 765
+Now i is 534,  and arr[i].d is 553,  arr[i].p is 735
+Now i is 535,  and arr[i].d is 554,  arr[i].p is 941
+Now i is 536,  and arr[i].d is 554,  arr[i].p is 802
+Now i is 537,  and arr[i].d is 554,  arr[i].p is 465
+Now i is 538,  and arr[i].d is 555,  arr[i].p is 172
+Now i is 539,  and arr[i].d is 556,  arr[i].p is 8
+Now i is 540,  and arr[i].d is 557,  arr[i].p is 945
+Now i is 541,  and arr[i].d is 557,  arr[i].p is 636
+Now i is 542,  and arr[i].d is 557,  arr[i].p is 511
+Now i is 543,  and arr[i].d is 557,  arr[i].p is 464
+Now i is 544,  and arr[i].d is 557,  arr[i].p is 43
+Now i is 545,  and arr[i].d is 558,  arr[i].p is 702
+Now i is 546,  and arr[i].d is 559,  arr[i].p is 522
+Now i is 547,  and arr[i].d is 559,  arr[i].p is 467
+Now i is 548,  and arr[i].d is 559,  arr[i].p is 279
+Now i is 549,  and arr[i].d is 560,  arr[i].p is 468
+Now i is 550,  and arr[i].d is 560,  arr[i].p is 389
+Now i is 551,  and arr[i].d is 561,  arr[i].p is 682
+Now i is 552,  and arr[i].d is 561,  arr[i].p is 336
+Now i is 553,  and arr[i].d is 563,  arr[i].p is 236
+Now i is 554,  and arr[i].d is 564,  arr[i].p is 697
+Now i is 555,  and arr[i].d is 566,  arr[i].p is 871
+Now i is 556,  and arr[i].d is 566,  arr[i].p is 668
+Now i is 557,  and arr[i].d is 567,  arr[i].p is 514
+Now i is 558,  and arr[i].d is 567,  arr[i].p is 411
+Now i is 559,  and arr[i].d is 570,  arr[i].p is 642
+Now i is 560,  and arr[i].d is 570,  arr[i].p is 547
+Now i is 561,  and arr[i].d is 571,  arr[i].p is 93
+Now i is 562,  and arr[i].d is 572,  arr[i].p is 730
+Now i is 563,  and arr[i].d is 573,  arr[i].p is 261
+Now i is 564,  and arr[i].d is 575,  arr[i].p is 499
+Now i is 565,  and arr[i].d is 575,  arr[i].p is 371
+Now i is 566,  and arr[i].d is 576,  arr[i].p is 742
+Now i is 567,  and arr[i].d is 576,  arr[i].p is 266
+Now i is 568,  and arr[i].d is 576,  arr[i].p is 241
+Now i is 569,  and arr[i].d is 577,  arr[i].p is 947
+Now i is 570,  and arr[i].d is 577,  arr[i].p is 759
+Now i is 571,  and arr[i].d is 579,  arr[i].p is 297
+Now i is 572,  and arr[i].d is 580,  arr[i].p is 955
+Now i is 573,  and arr[i].d is 580,  arr[i].p is 812
+Now i is 574,  and arr[i].d is 581,  arr[i].p is 563
+Now i is 575,  and arr[i].d is 582,  arr[i].p is 647
+Now i is 576,  and arr[i].d is 582,  arr[i].p is 242
+Now i is 577,  and arr[i].d is 582,  arr[i].p is 239
+Now i is 578,  and arr[i].d is 583,  arr[i].p is 935
+Now i is 579,  and arr[i].d is 583,  arr[i].p is 753
+Now i is 580,  and arr[i].d is 585,  arr[i].p is 15
+Now i is 581,  and arr[i].d is 586,  arr[i].p is 725
+Now i is 582,  and arr[i].d is 588,  arr[i].p is 653
+Now i is 583,  and arr[i].d is 589,  arr[i].p is 723
+Now i is 584,  and arr[i].d is 589,  arr[i].p is 230
+Now i is 585,  and arr[i].d is 592,  arr[i].p is 650
+Now i is 586,  and arr[i].d is 593,  arr[i].p is 801
+Now i is 587,  and arr[i].d is 595,  arr[i].p is 219
+Now i is 588,  and arr[i].d is 596,  arr[i].p is 498
+Now i is 589,  and arr[i].d is 597,  arr[i].p is 932
+Now i is 590,  and arr[i].d is 597,  arr[i].p is 741
+Now i is 591,  and arr[i].d is 598,  arr[i].p is 996
+Now i is 592,  and arr[i].d is 598,  arr[i].p is 578
+Now i is 593,  and arr[i].d is 601,  arr[i].p is 860
+Now i is 594,  and arr[i].d is 602,  arr[i].p is 795
+Now i is 595,  and arr[i].d is 602,  arr[i].p is 556
+Now i is 596,  and arr[i].d is 603,  arr[i].p is 384
+Now i is 597,  and arr[i].d is 605,  arr[i].p is 234
+Now i is 598,  and arr[i].d is 605,  arr[i].p is 52
+Now i is 599,  and arr[i].d is 605,  arr[i].p is 27
+Now i is 600,  and arr[i].d is 606,  arr[i].p is 675
+Now i is 601,  and arr[i].d is 606,  arr[i].p is 7
+Now i is 602,  and arr[i].d is 607,  arr[i].p is 818
+Now i is 603,  and arr[i].d is 607,  arr[i].p is 525
+Now i is 604,  and arr[i].d is 608,  arr[i].p is 626
+Now i is 605,  and arr[i].d is 608,  arr[i].p is 257
+Now i is 606,  and arr[i].d is 608,  arr[i].p is 66
+Now i is 607,  and arr[i].d is 609,  arr[i].p is 919
+Now i is 608,  and arr[i].d is 612,  arr[i].p is 7
+Now i is 609,  and arr[i].d is 613,  arr[i].p is 835
+Now i is 610,  and arr[i].d is 613,  arr[i].p is 821
+Now i is 611,  and arr[i].d is 614,  arr[i].p is 320
+Now i is 612,  and arr[i].d is 614,  arr[i].p is 262
+Now i is 613,  and arr[i].d is 614,  arr[i].p is 120
+Now i is 614,  and arr[i].d is 616,  arr[i].p is 633
+Now i is 615,  and arr[i].d is 616,  arr[i].p is 156
+Now i is 616,  and arr[i].d is 616,  arr[i].p is 94
+Now i is 617,  and arr[i].d is 617,  arr[i].p is 125
+Now i is 618,  and arr[i].d is 619,  arr[i].p is 928
+Now i is 619,  and arr[i].d is 619,  arr[i].p is 599
+Now i is 620,  and arr[i].d is 619,  arr[i].p is 183
+Now i is 621,  and arr[i].d is 620,  arr[i].p is 939
+Now i is 622,  and arr[i].d is 621,  arr[i].p is 933
+Now i is 623,  and arr[i].d is 621,  arr[i].p is 323
+Now i is 624,  and arr[i].d is 621,  arr[i].p is 306
+Now i is 625,  and arr[i].d is 621,  arr[i].p is 255
+Now i is 626,  and arr[i].d is 623,  arr[i].p is 280
+Now i is 627,  and arr[i].d is 625,  arr[i].p is 188
+Now i is 628,  and arr[i].d is 626,  arr[i].p is 91
+Now i is 629,  and arr[i].d is 628,  arr[i].p is 76
+Now i is 630,  and arr[i].d is 629,  arr[i].p is 327
+Now i is 631,  and arr[i].d is 629,  arr[i].p is 248
+Now i is 632,  and arr[i].d is 632,  arr[i].p is 873
+Now i is 633,  and arr[i].d is 634,  arr[i].p is 885
+Now i is 634,  and arr[i].d is 635,  arr[i].p is 703
+Now i is 635,  and arr[i].d is 635,  arr[i].p is 596
+Now i is 636,  and arr[i].d is 638,  arr[i].p is 296
+Now i is 637,  and arr[i].d is 640,  arr[i].p is 210
+Now i is 638,  and arr[i].d is 641,  arr[i].p is 987
+Now i is 639,  and arr[i].d is 641,  arr[i].p is 714
+Now i is 640,  and arr[i].d is 642,  arr[i].p is 356
+Now i is 641,  and arr[i].d is 643,  arr[i].p is 751
+Now i is 642,  and arr[i].d is 644,  arr[i].p is 217
+Now i is 643,  and arr[i].d is 645,  arr[i].p is 660
+Now i is 644,  and arr[i].d is 646,  arr[i].p is 580
+Now i is 645,  and arr[i].d is 646,  arr[i].p is 31
+Now i is 646,  and arr[i].d is 650,  arr[i].p is 918
+Now i is 647,  and arr[i].d is 651,  arr[i].p is 822
+Now i is 648,  and arr[i].d is 652,  arr[i].p is 245
+Now i is 649,  and arr[i].d is 653,  arr[i].p is 632
+Now i is 650,  and arr[i].d is 653,  arr[i].p is 304
+Now i is 651,  and arr[i].d is 653,  arr[i].p is 268
+Now i is 652,  and arr[i].d is 655,  arr[i].p is 310
+Now i is 653,  and arr[i].d is 656,  arr[i].p is 783
+Now i is 654,  and arr[i].d is 658,  arr[i].p is 244
+Now i is 655,  and arr[i].d is 658,  arr[i].p is 83
+Now i is 656,  and arr[i].d is 661,  arr[i].p is 521
+Now i is 657,  and arr[i].d is 661,  arr[i].p is 69
+Now i is 658,  and arr[i].d is 662,  arr[i].p is 352
+Now i is 659,  and arr[i].d is 665,  arr[i].p is 847
+Now i is 660,  and arr[i].d is 665,  arr[i].p is 796
+Now i is 661,  and arr[i].d is 665,  arr[i].p is 690
+Now i is 662,  and arr[i].d is 665,  arr[i].p is 205
+Now i is 663,  and arr[i].d is 667,  arr[i].p is 613
+Now i is 664,  and arr[i].d is 669,  arr[i].p is 754
+Now i is 665,  and arr[i].d is 669,  arr[i].p is 467
+Now i is 666,  and arr[i].d is 673,  arr[i].p is 481
+Now i is 667,  and arr[i].d is 673,  arr[i].p is 460
+Now i is 668,  and arr[i].d is 678,  arr[i].p is 772
+Now i is 669,  and arr[i].d is 678,  arr[i].p is 246
+Now i is 670,  and arr[i].d is 679,  arr[i].p is 706
+Now i is 671,  and arr[i].d is 680,  arr[i].p is 946
+Now i is 672,  and arr[i].d is 681,  arr[i].p is 315
+Now i is 673,  and arr[i].d is 684,  arr[i].p is 277
+Now i is 674,  and arr[i].d is 685,  arr[i].p is 388
+Now i is 675,  and arr[i].d is 686,  arr[i].p is 974
+Now i is 676,  and arr[i].d is 687,  arr[i].p is 860
+Now i is 677,  and arr[i].d is 687,  arr[i].p is 410
+Now i is 678,  and arr[i].d is 687,  arr[i].p is 244
+Now i is 679,  and arr[i].d is 688,  arr[i].p is 865
+Now i is 680,  and arr[i].d is 688,  arr[i].p is 515
+Now i is 681,  and arr[i].d is 690,  arr[i].p is 937
+Now i is 682,  and arr[i].d is 690,  arr[i].p is 899
+Now i is 683,  and arr[i].d is 693,  arr[i].p is 847
+Now i is 684,  and arr[i].d is 694,  arr[i].p is 90
+Now i is 685,  and arr[i].d is 695,  arr[i].p is 582
+Now i is 686,  and arr[i].d is 695,  arr[i].p is 513
+Now i is 687,  and arr[i].d is 695,  arr[i].p is 458
+Now i is 688,  and arr[i].d is 696,  arr[i].p is 688
+Now i is 689,  and arr[i].d is 697,  arr[i].p is 907
+Now i is 690,  and arr[i].d is 697,  arr[i].p is 549
+Now i is 691,  and arr[i].d is 699,  arr[i].p is 408
+Now i is 692,  and arr[i].d is 700,  arr[i].p is 444
+Now i is 693,  and arr[i].d is 704,  arr[i].p is 732
+Now i is 694,  and arr[i].d is 704,  arr[i].p is 608
+Now i is 695,  and arr[i].d is 705,  arr[i].p is 401
+Now i is 696,  and arr[i].d is 705,  arr[i].p is 157
+Now i is 697,  and arr[i].d is 706,  arr[i].p is 374
+Now i is 698,  and arr[i].d is 707,  arr[i].p is 406
+Now i is 699,  and arr[i].d is 708,  arr[i].p is 998
+Now i is 700,  and arr[i].d is 708,  arr[i].p is 262
+Now i is 701,  and arr[i].d is 708,  arr[i].p is 95
+Now i is 702,  and arr[i].d is 709,  arr[i].p is 966
+Now i is 703,  and arr[i].d is 709,  arr[i].p is 119
+Now i is 704,  and arr[i].d is 711,  arr[i].p is 194
+Now i is 705,  and arr[i].d is 713,  arr[i].p is 677
+Now i is 706,  and arr[i].d is 715,  arr[i].p is 392
+Now i is 707,  and arr[i].d is 716,  arr[i].p is 847
+Now i is 708,  and arr[i].d is 716,  arr[i].p is 259
+Now i is 709,  and arr[i].d is 717,  arr[i].p is 487
+Now i is 710,  and arr[i].d is 718,  arr[i].p is 356
+Now i is 711,  and arr[i].d is 719,  arr[i].p is 386
+Now i is 712,  and arr[i].d is 721,  arr[i].p is 600
+Now i is 713,  and arr[i].d is 722,  arr[i].p is 986
+Now i is 714,  and arr[i].d is 723,  arr[i].p is 826
+Now i is 715,  and arr[i].d is 723,  arr[i].p is 227
+Now i is 716,  and arr[i].d is 724,  arr[i].p is 654
+Now i is 717,  and arr[i].d is 724,  arr[i].p is 419
+Now i is 718,  and arr[i].d is 726,  arr[i].p is 601
+Now i is 719,  and arr[i].d is 726,  arr[i].p is 176
+Now i is 720,  and arr[i].d is 727,  arr[i].p is 933
+Now i is 721,  and arr[i].d is 727,  arr[i].p is 804
+Now i is 722,  and arr[i].d is 728,  arr[i].p is 430
+Now i is 723,  and arr[i].d is 732,  arr[i].p is 718
+Now i is 724,  and arr[i].d is 733,  arr[i].p is 229
+Now i is 725,  and arr[i].d is 734,  arr[i].p is 468
+Now i is 726,  and arr[i].d is 735,  arr[i].p is 262
+Now i is 727,  and arr[i].d is 737,  arr[i].p is 771
+Now i is 728,  and arr[i].d is 737,  arr[i].p is 344
+Now i is 729,  and arr[i].d is 738,  arr[i].p is 713
+Now i is 730,  and arr[i].d is 738,  arr[i].p is 647
+Now i is 731,  and arr[i].d is 739,  arr[i].p is 26
+Now i is 732,  and arr[i].d is 743,  arr[i].p is 133
+Now i is 733,  and arr[i].d is 744,  arr[i].p is 997
+Now i is 734,  and arr[i].d is 744,  arr[i].p is 593
+Now i is 735,  and arr[i].d is 744,  arr[i].p is 553
+Now i is 736,  and arr[i].d is 746,  arr[i].p is 493
+Now i is 737,  and arr[i].d is 747,  arr[i].p is 741
+Now i is 738,  and arr[i].d is 748,  arr[i].p is 496
+Now i is 739,  and arr[i].d is 750,  arr[i].p is 924
+Now i is 740,  and arr[i].d is 752,  arr[i].p is 932
+Now i is 741,  and arr[i].d is 752,  arr[i].p is 390
+Now i is 742,  and arr[i].d is 753,  arr[i].p is 757
+Now i is 743,  and arr[i].d is 754,  arr[i].p is 923
+Now i is 744,  and arr[i].d is 755,  arr[i].p is 817
+Now i is 745,  and arr[i].d is 756,  arr[i].p is 530
+Now i is 746,  and arr[i].d is 758,  arr[i].p is 383
+Now i is 747,  and arr[i].d is 759,  arr[i].p is 86
+Now i is 748,  and arr[i].d is 760,  arr[i].p is 373
+Now i is 749,  and arr[i].d is 761,  arr[i].p is 826
+Now i is 750,  and arr[i].d is 761,  arr[i].p is 297
+Now i is 751,  and arr[i].d is 763,  arr[i].p is 236
+Now i is 752,  and arr[i].d is 763,  arr[i].p is 142
+Now i is 753,  and arr[i].d is 763,  arr[i].p is 76
+Now i is 754,  and arr[i].d is 766,  arr[i].p is 961
+Now i is 755,  and arr[i].d is 767,  arr[i].p is 174
+Now i is 756,  and arr[i].d is 769,  arr[i].p is 180
+Now i is 757,  and arr[i].d is 770,  arr[i].p is 424
+Now i is 758,  and arr[i].d is 770,  arr[i].p is 359
+Now i is 759,  and arr[i].d is 770,  arr[i].p is 111
+Now i is 760,  and arr[i].d is 771,  arr[i].p is 437
+Now i is 761,  and arr[i].d is 771,  arr[i].p is 304
+Now i is 762,  and arr[i].d is 773,  arr[i].p is 953
+Now i is 763,  and arr[i].d is 773,  arr[i].p is 401
+Now i is 764,  and arr[i].d is 777,  arr[i].p is 768
+Now i is 765,  and arr[i].d is 778,  arr[i].p is 932
+Now i is 766,  and arr[i].d is 779,  arr[i].p is 933
+Now i is 767,  and arr[i].d is 779,  arr[i].p is 155
+Now i is 768,  and arr[i].d is 780,  arr[i].p is 911
+Now i is 769,  and arr[i].d is 781,  arr[i].p is 952
+Now i is 770,  and arr[i].d is 782,  arr[i].p is 295
+Now i is 771,  and arr[i].d is 782,  arr[i].p is 257
+Now i is 772,  and arr[i].d is 783,  arr[i].p is 428
+Now i is 773,  and arr[i].d is 783,  arr[i].p is 148
+Now i is 774,  and arr[i].d is 784,  arr[i].p is 930
+Now i is 775,  and arr[i].d is 785,  arr[i].p is 204
+Now i is 776,  and arr[i].d is 786,  arr[i].p is 409
+Now i is 777,  and arr[i].d is 787,  arr[i].p is 379
+Now i is 778,  and arr[i].d is 790,  arr[i].p is 431
+Now i is 779,  and arr[i].d is 790,  arr[i].p is 418
+Now i is 780,  and arr[i].d is 792,  arr[i].p is 706
+Now i is 781,  and arr[i].d is 793,  arr[i].p is 512
+Now i is 782,  and arr[i].d is 793,  arr[i].p is 104
+Now i is 783,  and arr[i].d is 796,  arr[i].p is 180
+Now i is 784,  and arr[i].d is 798,  arr[i].p is 982
+Now i is 785,  and arr[i].d is 798,  arr[i].p is 811
+Now i is 786,  and arr[i].d is 799,  arr[i].p is 675
+Now i is 787,  and arr[i].d is 799,  arr[i].p is 39
+Now i is 788,  and arr[i].d is 802,  arr[i].p is 130
+Now i is 789,  and arr[i].d is 804,  arr[i].p is 23
+Now i is 790,  and arr[i].d is 805,  arr[i].p is 362
+Now i is 791,  and arr[i].d is 806,  arr[i].p is 668
+Now i is 792,  and arr[i].d is 807,  arr[i].p is 544
+Now i is 793,  and arr[i].d is 809,  arr[i].p is 938
+Now i is 794,  and arr[i].d is 809,  arr[i].p is 373
+Now i is 795,  and arr[i].d is 809,  arr[i].p is 92
+Now i is 796,  and arr[i].d is 811,  arr[i].p is 712
+Now i is 797,  and arr[i].d is 812,  arr[i].p is 289
+Now i is 798,  and arr[i].d is 813,  arr[i].p is 894
+Now i is 799,  and arr[i].d is 814,  arr[i].p is 850
+Now i is 800,  and arr[i].d is 815,  arr[i].p is 717
+Now i is 801,  and arr[i].d is 815,  arr[i].p is 506
+Now i is 802,  and arr[i].d is 815,  arr[i].p is 357
+Now i is 803,  and arr[i].d is 816,  arr[i].p is 608
+Now i is 804,  and arr[i].d is 817,  arr[i].p is 981
+Now i is 805,  and arr[i].d is 818,  arr[i].p is 488
+Now i is 806,  and arr[i].d is 819,  arr[i].p is 374
+Now i is 807,  and arr[i].d is 820,  arr[i].p is 152
+Now i is 808,  and arr[i].d is 821,  arr[i].p is 516
+Now i is 809,  and arr[i].d is 821,  arr[i].p is 342
+Now i is 810,  and arr[i].d is 823,  arr[i].p is 868
+Now i is 811,  and arr[i].d is 823,  arr[i].p is 428
+Now i is 812,  and arr[i].d is 823,  arr[i].p is 17
+Now i is 813,  and arr[i].d is 825,  arr[i].p is 705
+Now i is 814,  and arr[i].d is 826,  arr[i].p is 935
+Now i is 815,  and arr[i].d is 828,  arr[i].p is 918
+Now i is 816,  and arr[i].d is 828,  arr[i].p is 216
+Now i is 817,  and arr[i].d is 828,  arr[i].p is 12
+Now i is 818,  and arr[i].d is 829,  arr[i].p is 17
+Now i is 819,  and arr[i].d is 830,  arr[i].p is 955
+Now i is 820,  and arr[i].d is 830,  arr[i].p is 116
+Now i is 821,  and arr[i].d is 831,  arr[i].p is 509
+Now i is 822,  and arr[i].d is 832,  arr[i].p is 722
+Now i is 823,  and arr[i].d is 832,  arr[i].p is 396
+Now i is 824,  and arr[i].d is 832,  arr[i].p is 304
+Now i is 825,  and arr[i].d is 834,  arr[i].p is 213
+Now i is 826,  and arr[i].d is 835,  arr[i].p is 637
+Now i is 827,  and arr[i].d is 835,  arr[i].p is 357
+Now i is 828,  and arr[i].d is 836,  arr[i].p is 222
+Now i is 829,  and arr[i].d is 837,  arr[i].p is 974
+Now i is 830,  and arr[i].d is 839,  arr[i].p is 782
+Now i is 831,  and arr[i].d is 840,  arr[i].p is 86
+Now i is 832,  and arr[i].d is 841,  arr[i].p is 219
+Now i is 833,  and arr[i].d is 841,  arr[i].p is 143
+Now i is 834,  and arr[i].d is 842,  arr[i].p is 148
+Now i is 835,  and arr[i].d is 843,  arr[i].p is 619
+Now i is 836,  and arr[i].d is 843,  arr[i].p is 385
+Now i is 837,  and arr[i].d is 843,  arr[i].p is 345
+Now i is 838,  and arr[i].d is 844,  arr[i].p is 858
+Now i is 839,  and arr[i].d is 844,  arr[i].p is 393
+Now i is 840,  and arr[i].d is 846,  arr[i].p is 447
+Now i is 841,  and arr[i].d is 847,  arr[i].p is 207
+Now i is 842,  and arr[i].d is 847,  arr[i].p is 107
+Now i is 843,  and arr[i].d is 849,  arr[i].p is 792
+Now i is 844,  and arr[i].d is 849,  arr[i].p is 323
+Now i is 845,  and arr[i].d is 849,  arr[i].p is 284
+Now i is 846,  and arr[i].d is 850,  arr[i].p is 385
+Now i is 847,  and arr[i].d is 852,  arr[i].p is 446
+Now i is 848,  and arr[i].d is 853,  arr[i].p is 929
+Now i is 849,  and arr[i].d is 853,  arr[i].p is 929
+Now i is 850,  and arr[i].d is 854,  arr[i].p is 387
+Now i is 851,  and arr[i].d is 854,  arr[i].p is 341
+Now i is 852,  and arr[i].d is 856,  arr[i].p is 754
+Now i is 853,  and arr[i].d is 856,  arr[i].p is 210
+Now i is 854,  and arr[i].d is 856,  arr[i].p is 64
+Now i is 855,  and arr[i].d is 858,  arr[i].p is 245
+Now i is 856,  and arr[i].d is 860,  arr[i].p is 299
+Now i is 857,  and arr[i].d is 860,  arr[i].p is 225
+Now i is 858,  and arr[i].d is 861,  arr[i].p is 612
+Now i is 859,  and arr[i].d is 862,  arr[i].p is 680
+Now i is 860,  and arr[i].d is 862,  arr[i].p is 339
+Now i is 861,  and arr[i].d is 862,  arr[i].p is 261
+Now i is 862,  and arr[i].d is 863,  arr[i].p is 599
+Now i is 863,  and arr[i].d is 866,  arr[i].p is 584
+Now i is 864,  and arr[i].d is 867,  arr[i].p is 82
+Now i is 865,  and arr[i].d is 868,  arr[i].p is 726
+Now i is 866,  and arr[i].d is 869,  arr[i].p is 885
+Now i is 867,  and arr[i].d is 869,  arr[i].p is 808
+Now i is 868,  and arr[i].d is 869,  arr[i].p is 667
+Now i is 869,  and arr[i].d is 869,  arr[i].p is 392
+Now i is 870,  and arr[i].d is 871,  arr[i].p is 984
+Now i is 871,  and arr[i].d is 871,  arr[i].p is 805
+Now i is 872,  and arr[i].d is 872,  arr[i].p is 605
+Now i is 873,  and arr[i].d is 873,  arr[i].p is 924
+Now i is 874,  and arr[i].d is 875,  arr[i].p is 383
+Now i is 875,  and arr[i].d is 878,  arr[i].p is 175
+Now i is 876,  and arr[i].d is 879,  arr[i].p is 621
+Now i is 877,  and arr[i].d is 879,  arr[i].p is 245
+Now i is 878,  and arr[i].d is 881,  arr[i].p is 80
+Now i is 879,  and arr[i].d is 882,  arr[i].p is 878
+Now i is 880,  and arr[i].d is 882,  arr[i].p is 611
+Now i is 881,  and arr[i].d is 883,  arr[i].p is 714
+Now i is 882,  and arr[i].d is 885,  arr[i].p is 619
+Now i is 883,  and arr[i].d is 886,  arr[i].p is 495
+Now i is 884,  and arr[i].d is 886,  arr[i].p is 272
+Now i is 885,  and arr[i].d is 886,  arr[i].p is 223
+Now i is 886,  and arr[i].d is 887,  arr[i].p is 170
+Now i is 887,  and arr[i].d is 888,  arr[i].p is 479
+Now i is 888,  and arr[i].d is 891,  arr[i].p is 752
+Now i is 889,  and arr[i].d is 891,  arr[i].p is 580
+Now i is 890,  and arr[i].d is 894,  arr[i].p is 363
+Now i is 891,  and arr[i].d is 894,  arr[i].p is 160
+Now i is 892,  and arr[i].d is 895,  arr[i].p is 832
+Now i is 893,  and arr[i].d is 896,  arr[i].p is 792
+Now i is 894,  and arr[i].d is 896,  arr[i].p is 538
+Now i is 895,  and arr[i].d is 897,  arr[i].p is 563
+Now i is 896,  and arr[i].d is 898,  arr[i].p is 495
+Now i is 897,  and arr[i].d is 898,  arr[i].p is 100
+Now i is 898,  and arr[i].d is 899,  arr[i].p is 350
+Now i is 899,  and arr[i].d is 901,  arr[i].p is 778
+Now i is 900,  and arr[i].d is 901,  arr[i].p is 390
+Now i is 901,  and arr[i].d is 902,  arr[i].p is 441
+Now i is 902,  and arr[i].d is 902,  arr[i].p is 15
+Now i is 903,  and arr[i].d is 904,  arr[i].p is 606
+Now i is 904,  and arr[i].d is 905,  arr[i].p is 459
+Now i is 905,  and arr[i].d is 905,  arr[i].p is 246
+Now i is 906,  and arr[i].d is 905,  arr[i].p is 167
+Now i is 907,  and arr[i].d is 906,  arr[i].p is 345
+Now i is 908,  and arr[i].d is 907,  arr[i].p is 768
+Now i is 909,  and arr[i].d is 908,  arr[i].p is 880
+Now i is 910,  and arr[i].d is 908,  arr[i].p is 326
+Now i is 911,  and arr[i].d is 910,  arr[i].p is 363
+Now i is 912,  and arr[i].d is 912,  arr[i].p is 773
+Now i is 913,  and arr[i].d is 914,  arr[i].p is 367
+Now i is 914,  and arr[i].d is 917,  arr[i].p is 848
+Now i is 915,  and arr[i].d is 917,  arr[i].p is 156
+Now i is 916,  and arr[i].d is 918,  arr[i].p is 859
+Now i is 917,  and arr[i].d is 918,  arr[i].p is 658
+Now i is 918,  and arr[i].d is 918,  arr[i].p is 188
+Now i is 919,  and arr[i].d is 920,  arr[i].p is 168
+Now i is 920,  and arr[i].d is 921,  arr[i].p is 753
+Now i is 921,  and arr[i].d is 924,  arr[i].p is 219
+Now i is 922,  and arr[i].d is 927,  arr[i].p is 640
+Now i is 923,  and arr[i].d is 928,  arr[i].p is 510
+Now i is 924,  and arr[i].d is 929,  arr[i].p is 774
+Now i is 925,  and arr[i].d is 929,  arr[i].p is 94
+Now i is 926,  and arr[i].d is 930,  arr[i].p is 277
+Now i is 927,  and arr[i].d is 934,  arr[i].p is 133
+Now i is 928,  and arr[i].d is 935,  arr[i].p is 990
+Now i is 929,  and arr[i].d is 935,  arr[i].p is 366
+Now i is 930,  and arr[i].d is 937,  arr[i].p is 426
+Now i is 931,  and arr[i].d is 937,  arr[i].p is 166
+Now i is 932,  and arr[i].d is 938,  arr[i].p is 834
+Now i is 933,  and arr[i].d is 938,  arr[i].p is 77
+Now i is 934,  and arr[i].d is 939,  arr[i].p is 180
+Now i is 935,  and arr[i].d is 940,  arr[i].p is 455
+Now i is 936,  and arr[i].d is 941,  arr[i].p is 963
+Now i is 937,  and arr[i].d is 943,  arr[i].p is 480
+Now i is 938,  and arr[i].d is 946,  arr[i].p is 747
+Now i is 939,  and arr[i].d is 946,  arr[i].p is 420
+Now i is 940,  and arr[i].d is 948,  arr[i].p is 375
+Now i is 941,  and arr[i].d is 948,  arr[i].p is 326
+Now i is 942,  and arr[i].d is 949,  arr[i].p is 361
+Now i is 943,  and arr[i].d is 949,  arr[i].p is 255
+Now i is 944,  and arr[i].d is 951,  arr[i].p is 364
+Now i is 945,  and arr[i].d is 952,  arr[i].p is 654
+Now i is 946,  and arr[i].d is 953,  arr[i].p is 875
+Now i is 947,  and arr[i].d is 953,  arr[i].p is 487
+Now i is 948,  and arr[i].d is 956,  arr[i].p is 851
+Now i is 949,  and arr[i].d is 958,  arr[i].p is 847
+Now i is 950,  and arr[i].d is 958,  arr[i].p is 560
+Now i is 951,  and arr[i].d is 958,  arr[i].p is 113
+Now i is 952,  and arr[i].d is 959,  arr[i].p is 11
+Now i is 953,  and arr[i].d is 960,  arr[i].p is 32
+Now i is 954,  and arr[i].d is 961,  arr[i].p is 89
+Now i is 955,  and arr[i].d is 962,  arr[i].p is 402
+Now i is 956,  and arr[i].d is 963,  arr[i].p is 770
+Now i is 957,  and arr[i].d is 964,  arr[i].p is 180
+Now i is 958,  and arr[i].d is 966,  arr[i].p is 487
+Now i is 959,  and arr[i].d is 967,  arr[i].p is 338
+Now i is 960,  and arr[i].d is 968,  arr[i].p is 730
+Now i is 961,  and arr[i].d is 970,  arr[i].p is 889
+Now i is 962,  and arr[i].d is 971,  arr[i].p is 185
+Now i is 963,  and arr[i].d is 971,  arr[i].p is 122
+Now i is 964,  and arr[i].d is 972,  arr[i].p is 674
+Now i is 965,  and arr[i].d is 973,  arr[i].p is 283
+Now i is 966,  and arr[i].d is 974,  arr[i].p is 717
+Now i is 967,  and arr[i].d is 976,  arr[i].p is 980
+Now i is 968,  and arr[i].d is 976,  arr[i].p is 932
+Now i is 969,  and arr[i].d is 976,  arr[i].p is 322
+Now i is 970,  and arr[i].d is 977,  arr[i].p is 831
+Now i is 971,  and arr[i].d is 978,  arr[i].p is 893
+Now i is 972,  and arr[i].d is 979,  arr[i].p is 725
+Now i is 973,  and arr[i].d is 980,  arr[i].p is 948
+Now i is 974,  and arr[i].d is 981,  arr[i].p is 541
+Now i is 975,  and arr[i].d is 982,  arr[i].p is 691
+Now i is 976,  and arr[i].d is 982,  arr[i].p is 203
+Now i is 977,  and arr[i].d is 984,  arr[i].p is 497
+Now i is 978,  and arr[i].d is 985,  arr[i].p is 339
+Now i is 979,  and arr[i].d is 986,  arr[i].p is 576
+Now i is 980,  and arr[i].d is 987,  arr[i].p is 604
+Now i is 981,  and arr[i].d is 989,  arr[i].p is 260
+Now i is 982,  and arr[i].d is 990,  arr[i].p is 338
+Now i is 983,  and arr[i].d is 990,  arr[i].p is 94
+Now i is 984,  and arr[i].d is 991,  arr[i].p is 770
+Now i is 985,  and arr[i].d is 991,  arr[i].p is 471
+Now i is 986,  and arr[i].d is 992,  arr[i].p is 849
+Now i is 987,  and arr[i].d is 993,  arr[i].p is 189
+Now i is 988,  and arr[i].d is 994,  arr[i].p is 71
+Now i is 989,  and arr[i].d is 995,  arr[i].p is 732
+Now i is 990,  and arr[i].d is 995,  arr[i].p is 398
+Now i is 991,  and arr[i].d is 996,  arr[i].p is 318
+Now i is 992,  and arr[i].d is 996,  arr[i].p is 41
+Now i is 993,  and arr[i].d is 998,  arr[i].p is 540
+Now i is 994,  and arr[i].d is 999,  arr[i].p is 267
+Now i is 995,  and arr[i].d is 999,  arr[i].p is 9
+Now i is 996,  and arr[i].d is 1000,  arr[i].p is 592
+Now i is 997,  and arr[i].d is 1000,  arr[i].p is 466
+Now i is 998,  and arr[i].d is 1000,  arr[i].p is 414
+Now i is 999,  and arr[i].d is 1000,  arr[i].p is 330
+495576
