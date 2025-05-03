@@ -119,42 +119,86 @@ void quick_sort_my_hoare(int* arr, int l, int r){ //我的hoare分区版本
         return;
 }
 
-void quick_sort_my_hoare_v4(int* arr, int l, int r){ //我的hoare分区版本
-    while(r > l){
+int three_point_select(int a, int b, int c){
+    if (a > b) swap(a, b);
+    if (a > c) swap(a, c);
+    if (b > c) swap(b, c);
+    return b;
+}
+
+void quick_sort_my_hoare_v2(int* arr, int l, int r){ 
     if(r - l <=  2){
        if(r - l <= 1)return;
         if(arr[l] > arr[l + 1])swap(arr[l], arr[l + 1]);
         return;
     }
     
-    int pivot = arr[l], sp = l - 1, bp = r ;
+    int  sp = l - 1, bp = r ;
+    int pivot =three_point_select(arr[l], arr[r - 1], arr[(l + r) / 2]);
     while(true){
         do{++sp;}while(arr[sp] < pivot);
         do{--bp;}while(arr[bp] > pivot);
         if(sp > bp)break; 
         swap(arr[sp], arr[bp]);
     } 
-    quick_sort_my_hoare_v4(arr, l, sp);
-    l = sp;
+    quick_sort_my_hoare(arr, l, sp);
+    quick_sort_my_hoare(arr, sp, r);
+    return;
+}
+
+void quick_sort_my_hoare_v3(int* arr, int l, int r){ //我的hoare分区版本
+    if(r - l <=  2){
+        if(r - l <= 1)return;
+         if(arr[l] > arr[l + 1])swap(arr[l], arr[l + 1]);
+         return;
+     }
+     
+    while(r > l){
+       
+         int  sp = l , bp = r - 1;
+         int pivot =three_point_select(arr[l], arr[r - 1], arr[(l + r) / 2]);
+        // printf("arr[l] = %d, arr[r - 1] = %d, arr[(l + r) / 2] = %d\n",arr[l], arr[r - 1], arr[(l + r) / 2]);
+         while( sp <= bp){
+            while(arr[sp] < pivot) ++sp;
+            while(arr[bp] > pivot) --bp;
+             if(sp > bp)break; 
+             else{
+                swap(arr[sp], arr[bp]);
+                ++sp, --bp;
+             }
+         } 
+         quick_sort_my_hoare_v3(arr, l, sp);
+         l = sp;
     }
     return;
 }
 
+void display(int* arr, int n){
+    for(int i = 0; i < n ; i++)
+        printf("%d " , arr[i]);
+    printf("\n");
+
+}
+
 int main(){
     int* arr_b = getRandData(BIG_DATA_N);
-    //int* arr_s = getRandData(SMALL_DATA_N);
-    //int* arr_test = new int[7]{16, 1, 5, 4, 17, 33, 29};
+    int* arr_s = getRandData(SMALL_DATA_N);
+    //int* arr_test = new int[3]{16, 1, 29};
    // TEST(quick_sort, arr_b, BIG_DATA_N);
     //TEST(quick_sort, arr_s, SMALL_DATA_N);
     //TEST(quick_sort_change, arr_b, BIG_DATA_N);
     //TEST(quick_sort_change, arr_s, SMALL_DATA_N);
    // TEST(quick_sort_huguang, arr_b, BIG_DATA_N);
     //TEST(quick_sort_huguang, arr_s, SMALL_DATA_N);
-    TEST(quick_sort_v1, arr_b, BIG_DATA_N);
+    //TEST(quick_sort_v1, arr_b, BIG_DATA_N);
+    TEST(quick_sort_my_hoare, arr_b, SMALL_DATA_N);
     TEST(quick_sort_my_hoare, arr_b, BIG_DATA_N);
-    TEST(quick_sort_my_hoare_v4, arr_b, BIG_DATA_N);
+    //TEST(quick_sort_my_hoare_v2, arr_b, BIG_DATA_N);
+    //TEST(quick_sort_my_hoare_v3, arr_b, BIG_DATA_N);
     free(arr_b);
-    //free(arr_s);
-    //delete[] arr_test;
+    free(arr_s);
+   // quick_sort_my_hoare_v3(arr_test, 0, 3);
+   // display(arr_test, 3);
+   // delete[] arr_test;
     return 0;
 }
