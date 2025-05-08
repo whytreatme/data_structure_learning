@@ -38,6 +38,15 @@ int* getRandData(int n){
     return arr;
 }
 
+int* all_getRandData(int n){
+    __init_Rand__();
+    int* arr = (int*)malloc(sizeof(int) * n);
+    for(int i = 0; i < n; i++){
+        arr[i] = rand() % 10001 - 5000;
+    }
+    return arr;
+}
+
 #define TEST(func, arr, n){\
     printf("TEST: %s ", #func);\
     int* temp = (int *)malloc(sizeof(int) * n);\
