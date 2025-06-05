@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Current CPP File",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}/build/${fileBasenameNoExtension}.exe", // 自动匹配当前文件
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}/build",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerPath": "E://mingw64//bin//gdb.exe", // 修改为你的gdb路径
+        "preLaunchTask": "Build Current CPP File",     // 与tasks.json的label一致
+        "setupCommands": [
+          {
+            "description": "启用GDB美化打印",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ]
+      }
+    ]
+  }
