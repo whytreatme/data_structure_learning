@@ -1,5 +1,6 @@
 #include<cstdlib>
 #include<cstdio>
+//二分算法重要的不是算法本身，是算法的思想
 
 void output(int* arr, int n, int ind = -1){
     int len = 0;
@@ -18,6 +19,9 @@ void output(int* arr, int n, int ind = -1){
     return;
 }
 
+/*   这是一个个人所得税的起征函数，[0,3000]部分征3%的税
+     (3000 12000]部分征 10%的税依次类推
+*/
 #define min(a, b) ((a) < (b) ? (a) : (b))
 double f(double x){
     if(x >= 0) x -= min(x, 3000) * 0.03;
@@ -46,12 +50,15 @@ int binary_search(int* arr, int n, int x){
 }
 #define EXP 1e-4
 double binary_algorithm(double y){
+    //这个问题可以用二分思想求解，因为：
+    //1）征税问题是单调的
+    //2) f(x) = y 易求解，但是有y难求解x
     double head = 0, tail = 1000000, mid;
     while(tail - head >= EXP){
         mid = (head + tail) / 2.0 ;
        printf("[%lf, %lf], mid = %lf, f[%lf] = %lf\n", 
             head, tail, mid,
-            mid, f(mid)
+            mid, f(mid) //这里体现数组与函数都体现映射的思路
         );
         if(f(mid) > y) tail = mid ;
         else head = mid ;
@@ -91,6 +98,7 @@ int main(){
 #define MAX_N 10
 
     test_binary_search(MAX_N);
+    //已知税后收入求税前收入
     test_binary_algorithm();
     return 0;
 }
