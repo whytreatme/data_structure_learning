@@ -135,7 +135,7 @@ int main(){
         Node* p = find(s, x);
         printf("find result : ");
         if(p){
-            printf("key = %d, level = %d\n", p->key, p->level);
+            printf("key = %d, level = %d\n", p->key, p->level + 1);
         }else{
             printf("NULL\n");
         }
