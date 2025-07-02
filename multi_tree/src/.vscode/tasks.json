@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build Current CPP File",
+        "type": "shell",
+        "command": "g++",
+        "args": [
+          "-g",
+          "${file}",                          // 当前打开的文件
+          "-o",
+          "${fileDirname}/build/${fileBasenameNoExtension}.exe", // 输出到同级目录
+          "-I${workspaceFolder}/include"      // 可选：头文件路径
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": ["$gcc"],
+        "detail": "为当前打开的.cpp文件生成独立可执行文件"
+      }
+    ]
+  }
